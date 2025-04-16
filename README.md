@@ -193,3 +193,15 @@
 ### Video About-the-Team.
 
 ## <a name="need-finding"></a> 2.3. Needfinding
+
+Con el propósito de desarrollar una app que satisfaga las necesidades particulares de los usuarios, Ecotrip llevará a cabo la identificación del User persona, User Task Matrix, User Journey Maps y Empathy Mapping.
+
+### <a name="user-personas"></a> 2.3.1. User Personas
+
+Para esta sección se han creado personajes ficticios, cada uno diseñado para representar a un segmento específico de usuarios. La información utilizada para desarrollar estos "User personas" proviene de entrevistas previas realizadas a cada segmento objetivo. Estas entrevistas tenían como objetivo comprender mejor a las personas a las que se dirige la aplicación. Se consideraron datos demográficos, metas, motivaciones, frustraciones, marcas relacionadas con el tema de la aplicación, canales digitales más utilizados, entre otros. La creación de esta sección se llevó a cabo utilizando la plataforma UXPressia.
+
+- **Segmento objetivo: Programador Freelance y Turista**
+  
+![User Persona: Salvador](images/SalvadorSalinas.png)
+
+
