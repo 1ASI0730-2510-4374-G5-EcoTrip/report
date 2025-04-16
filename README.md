@@ -79,6 +79,25 @@
 
 3.2. User Stories.
 
+| **Epic / Story ID** | **Título** | **Descripción** | **Criterios de Aceptación (Gherkin)** | **Relacionado con (Epic ID)** |
+|---------------------|------------|------------------|----------------------------------------|-------------------------------|
+| EP-01 | Explorar experiencias | Como visitante, quiero ver experiencias sostenibles para saber qué ofrece EcoTrip. | **Given** que soy visitante<br>**When** ingreso a la sección de experiencias<br>**Then** puedo ver una lista de actividades disponibles. | - |
+| US-01.1 | Filtrar experiencias | Como visitante, quiero filtrar por tipo de experiencia para encontrar lo que me interesa. | **Given** que veo las experiencias<br>**When** elijo un tipo como “voluntariado”<br>**Then** solo se muestran ese tipo de experiencias. | EP-01 |
+| EP-02 | Registro de proveedores | Como proveedor, quiero registrarme para ofrecer mis servicios turísticos. | **Given** que soy proveedor<br>**When** completo el formulario de registro<br>**Then** recibo un mensaje indicando que fue enviado para revisión. | - |
+| US-02.1 | Aprobación de proveedor | Como administrador, quiero revisar los datos del proveedor para aprobar o rechazar su ingreso. | **Given** que hay un nuevo registro<br>**When** reviso sus datos<br>**Then** puedo aprobarlo o rechazarlo. | EP-02 |
+| EP-03 | Crear plan | Como turista, quiero crear mi propio plan de viaje con actividades y hospedajes. | **Given** que estoy registrado<br>**When** uso la herramienta de itinerario<br>**Then** puedo armar mi viaje agregando opciones. | - |
+| US-03.1 | Recomendaciones para itinerario | Como turista, quiero recibir sugerencias basadas en mis gustos. | **Given** que completé mi perfil<br>**When** creo un itinerario<br>**Then** se me sugieren actividades que me podrían gustar. | EP-03 |
+| EP-04 | Conexión con guías | Como turista, quiero contactar guías que hablen mi idioma. | **Given** que busco un guía<br>**When** indico mi idioma<br>**Then** veo una lista de guías que lo hablan. | - |
+| US-04.1 | Reservar guía específico | Como turista, quiero poder reservar a un guía en específico. | **Given** que encontré un guía<br>**When** hago clic en reservar<br>**Then** recibo una confirmación de reserva. | EP-04 |
+| EP-05 | Reservas y pagos | Como turista, quiero reservar experiencias y pagar fácilmente. | **Given** que elijo una experiencia<br>**When** hago clic en reservar y pago<br>**Then** recibo una confirmación automática. | - |
+| US-05.1 | Cancelar reserva | Como turista, quiero cancelar una reserva si no podré asistir. | **Given** que tengo una reserva<br>**When** la cancelo dentro del tiempo permitido<br>**Then** recibo un mensaje de cancelación y reembolso. | EP-05 |
+| EP-06 | Página informativa | Como visitante, quiero saber qué es EcoTrip y qué servicios ofrece. | **Given** que entro al sitio<br>**When** veo la página principal<br>**Then** encuentro información sobre la plataforma. | - |
+| US-06.1 | Ver testimonios | Como visitante, quiero leer opiniones de otros para confiar en la plataforma. | **Given** que estoy en la página<br>**When** entro a la sección de testimonios<br>**Then** puedo leer lo que otros viajeros dicen. | EP-06 |
+
+
+
+
+
 3.3. Impact Mapping.
 
 3.4. Product Backlog.
