@@ -306,4 +306,17 @@ En esta sección se aborda el Empathy Mapping, una herramienta esencial para con
 | **Experience**      | 🙂 Intuitiva                             | 😐 Un poco indecisa                      | 🙂 Clara y sin estrés                   | 🙂 Cómoda y bien organizada                | 🙂 Positiva, pero breve                    |
 | **Ideas/Opps**      | Acceso simplificado o invitado           | Mostrar reseñas visibles y puntuación    | Asistente visual durante la reserva     | Alertas automáticas y contacto rápido     | Incentivo por dejar reseña                |
 
+### <a name="as-is"></a> 2.3.5. As-is Scenario Mapping
+En esta sección se presenta el As-is Scenario Mapping para cada uno de los segmentos de usuarios identificados: Turistas Frecuentes y Turistas Ocasionales. Este análisis tiene como objetivo visualizar cómo interactúan actualmente estos usuarios con plataformas digitales para planificar y reservar experiencias de viaje, y así detectar puntos de mejora, frustraciones y oportunidades no exploradas.
+
+El proceso contempla las siguientes fases clave: Descubrimiento, Evaluación, Reserva, Experiencia y Seguimiento. En cada una se destacan tanto los aspectos positivos como negativos vividos por los usuarios, así como las áreas en las que aún se requiere mayor investigación.
+
+
+*As-is Scenario mapping: Turistas Frecuentes*
+  
+  ![As-Is: frecuentes](images/As-is_ScenarioMapping1.png)
+
+*As-is Scenario mapping: Turistas Ocasionales*
+  
+  ![As-Is: frecuentes](images/As-is_ScenarioMapping2.png)
 
