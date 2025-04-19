@@ -280,3 +280,30 @@ Tanto los Turistas Ocasionales como los Turistas Frecuentes comparten el deseo d
 | Post-experiencia             | Deja reseña y comparte experiencia           | Compromiso      | Web, email, redes           | Programa de fidelización o referidos            |
 
 
+### <a name="empathy-mapping"></a> 2.3.4. Empathy Mapping
+
+En esta sección se aborda el Empathy Mapping, una herramienta esencial para elaborar perfiles detallados de los user personas y profundizar en la comprensión de su perspectiva y experiencia. Cada user persona se analiza a través de cinco elementos cruciales: lo que el usuario ve, escucha,dice, hace y siente. Además, se identifican los problemas (pains) y beneficios (gains) de acuerdo con una serie de preguntas estratégicas:¿Qué preocupaciones o desafíos enfrenta el usuario en su trabajo diario?¿Qué mejoras o soluciones podrían resolver los problemas identificados?¿Qué argumentos podrían persuadir al usuario de que nuestra solución es la mejor opción para satisfacer sus necesidades profesionales?
+
+En esta sección se aborda el Empathy Mapping, una herramienta esencial para construir perfiles detallados de los user personas y profundizar en la comprensión de su perspectiva y experiencia durante la interacción con la plataforma. Este análisis se ha estructurado considerando cinco elementos clave: lo que el usuario ve, escucha, dice, hace y siente, además de identificar los problemas (pains) y beneficios (gains) que marcan su recorrido y necesidades.
+
+- **Segmento: Turistas Frecuentes**
+
+| Etapa                | Registro                          | Búsqueda de tours                     | Reserva                              | Experiencia del tour                    | Revisión y seguimiento                   |
+|---------------------|------------------------------------|----------------------------------------|----------------------------------------|------------------------------------------|------------------------------------------|
+| **User goals**      | Acceder rápidamente a su cuenta    | Encontrar experiencias únicas y nuevas | Reservar sin repetir datos            | Tener un servicio ágil y profesional     | Dejar feedback o repetir experiencia     |
+| **Touchpoints**     | Login con Google/Facebook          | Filtros avanzados, tours recomendados  | Perfil guardado con datos precargados | Confirmaciones automáticas, asistencia 24/7 | Correo de agradecimiento, link a favoritos |
+| **Customer Thought**| “Ya tengo cuenta, quiero entrar ya”| “¿Hay algo nuevo o diferente?”         | “¿Puedo reservar en 2 clics?”         | “¿Tendré soporte si algo falla?”        | “¿Vale la pena repetir o recomendar?”   |
+| **Experience**      | 😄 Rápida y eficiente               | 🙂 Curiosa y motivada                  | 😄 Satisfactoria                       | 😄 Profesional y sin contratiempos       | 😄 Positiva y leal                       |
+| **Ideas/Opps**      | Recordar sesión automáticamente     | Notificaciones de nuevos tours         | Botón de reserva rápida               | Chatbot o número de contacto directo     | Programa de recompensas o referidos      |
+
+- **Segmento: Turistas Ocasionales**
+
+| Etapa                | Registro                                | Búsqueda de tours                       | Reserva                                 | Experiencia del tour                      | Revisión y seguimiento                    |
+|---------------------|------------------------------------------|------------------------------------------|------------------------------------------|--------------------------------------------|--------------------------------------------|
+| **User goals**      | Crear cuenta fácilmente                 | Encontrar un tour accesible sin mucho esfuerzo | Reservar rápido y sin complicaciones   | Tener una experiencia guiada y clara       | Confirmar que todo salió bien              |
+| **Touchpoints**     | Registro con email o Google             | Tours destacados, búsqueda sencilla       | Pasarela de pago clara y guiada         | Instrucciones por correo/WhatsApp         | Enlace a reseña, agradecimiento             |
+| **Customer Thought**| “¿Esto es fácil o toma tiempo?”         | “¿Este tour vale la pena?”               | “¿Es seguro pagar aquí?”                | “¿Sabré a dónde ir y qué hacer?”          | “¿Debo dejar una opinión?”                 |
+| **Experience**      | 🙂 Intuitiva                             | 😐 Un poco indecisa                      | 🙂 Clara y sin estrés                   | 🙂 Cómoda y bien organizada                | 🙂 Positiva, pero breve                    |
+| **Ideas/Opps**      | Acceso simplificado o invitado           | Mostrar reseñas visibles y puntuación    | Asistente visual durante la reserva     | Alertas automáticas y contacto rápido     | Incentivo por dejar reseña                |
+
+
