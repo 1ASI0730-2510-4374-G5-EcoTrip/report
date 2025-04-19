@@ -204,4 +204,35 @@ Para esta sección se han creado personajes ficticios, cada uno diseñado para r
   
 ![User Persona: Salvador](images/SalvadorSalinas.png)
 
+### <a name="user-task-matrix"></a> 2.3.2. User Task Matrix
 
+En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones:nunca ,casi nunca, a veces, a menudo ,siempre; y para la importancia tres opciones: bajo, medio, alto". En relación con la matriz de tareas de los usuarios, podemos identificar tanto las tareas de mayor frecuencia como las de mayor importancia, así como las diferencias y similitudes entre los diferentes tipos de usuarios.
+
+
+<table><tr><th rowspan="2" valign="top"><b><i>User task Matrix</i></b></th><th colspan="2" valign="top"><b><i>Salvador Salinas</i></b></th><th colspan="2" valign="top"><p><b><i>xxxxxxxxxx</i></b> </p><p><b><i></i></b></p></th></tr>
+<tr><td valign="top"><b><i>Frecuencia</i></b> </td><td valign="top"><b><i>Importancia</i></b></td><td valign="top"><b><i>Frecuencia</i></b> </td><td valign="top"><b><i>Importancia</i></b></td></tr>
+<tr><td>Registrarse</td><td><b><i>Una vez</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Una vez</i></b></td><td><b><i>Alta</i></b></td></tr>
+<tr><td>Iniciar sesión</td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td></tr>
+<tr><td>Buscar tours</td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td></tr>
+<tr><td>Reservar tours</td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td></tr>
+<tr><td>Crear reseñas/comentarios</td><td><b><i>Siempre</i></b></td><td><b><i>Media</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Media</i></b></td></tr>
+<tr><td>Editar perfil</td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td></tr>
+<tr><td>Guardar tours favoritos</td><td><b><i>Siempre</i></b></td><td><b><i>Medio</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Medio</i></b></td></tr>
+<tr><td>Recibir recomendaciones personalizadas</td><td><b><i>A veces</i></b></td><td><b><i>Baja</i></b></td><td><b><i>Casi nunca</i></b></td><td><b><i>Baja</i></b></td></tr>
+</table>
+
+
+**Para los Turistas Frecuentes, las tareas más importantes y recurrentes incluyen:**
+
+- Buscar y reservar tours: Son actividades clave que definen su experiencia continua en la plataforma, por lo tanto tienen una frecuencia alta y una importancia alta.
+- Guardar tours favoritos: Les permite planificar y comparar opciones, mejorando la experiencia personalizada.
+- Recibir recomendaciones personalizadas: Es fundamental para facilitarles nuevas experiencias alineadas con sus intereses, por eso es tanto frecuente como valiosa.
+- Iniciar sesión y editar perfil: Aunque rutinarias, son necesarias para una navegación fluida.
+
+**Por otro lado, para los Turistas Ocasionales, las tareas más relevantes son:**
+
+- Registrarse e iniciar sesión: Aunque menos frecuentes, son esenciales para acceder a cualquier funcionalidad dentro de la plataforma.
+- Reservar tours: A pesar de ser usada ocasionalmente, tiene una alta importancia cuando ocurre.
+- Buscar tours: Se realiza con menos frecuencia, pero es clave en su momento de decisión.
+
+Ambos tipos de turistas comparten el interés por reservar tours y acceder al contenido básico, pero las funcionalidades como recomendaciones o guardar favoritos son significativamente más relevantes para los usuarios frecuentes. Esto refleja las diferentes necesidades y comportamientos entre quienes usan la plataforma esporádicamente frente a quienes la integran en su estilo de vida viajero.
