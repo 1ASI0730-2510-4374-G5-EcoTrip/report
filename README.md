@@ -236,3 +236,47 @@ En esta sección se presenta el user task matrix, herramienta centrada en los se
 - Buscar tours: Se realiza con menos frecuencia, pero es clave en su momento de decisión.
 
 Ambos tipos de turistas comparten el interés por reservar tours y acceder al contenido básico, pero las funcionalidades como recomendaciones o guardar favoritos son significativamente más relevantes para los usuarios frecuentes. Esto refleja las diferentes necesidades y comportamientos entre quienes usan la plataforma esporádicamente frente a quienes la integran en su estilo de vida viajero.
+
+### <a name="user-journey-mapping"></a> 2.3.3. User Journey Mapping
+
+En esta sección, se describen en detalle los User Journey Mapping para dos perfiles distintos de usuarios de la plataforma de turismo responsable: los Turistas Ocasionales y los Turistas Frecuentes. Estos mapas proporcionan una visión integral del recorrido que cada tipo de usuario realiza dentro del sistema, desde el primer contacto con la plataforma hasta su uso habitual y su interacción continua con las funcionalidades ofrecidas. Se destacan las etapas clave, las emociones y necesidades específicas de cada usuario, para asegurar una comprensión clara de su experiencia global.
+
+*Para Turistas Ocasionales* 
+- El recorrido del Turista Ocasional comienza generalmente por la búsqueda de opciones de viaje de manera espontánea, motivado por una necesidad puntual de escapar de la rutina o aprovechar una oportunidad (vacaciones, feriados, etc.). Su primer contacto con la plataforma suele ser a través de búsquedas orgánicas o recomendaciones de terceros.
+
+- Una vez dentro, realiza el registro para poder acceder a contenido completo y proceder con la reserva de un tour. La experiencia debe ser intuitiva y sin fricción, ya que este tipo de usuario no está habituado a navegar frecuentemente por plataformas de este tipo.
+  
+- Después de su experiencia en el tour, puede dejar una reseña ocasional, aunque en muchos casos no vuelve a usar la plataforma a corto plazo, a menos que se generen recordatorios o recomendaciones personalizadas en el futuro.
+
+*Para Turistas Frecuentes*
+- El Turista Frecuente tiene un comportamiento más estratégico y constante. Su viaje inicia incluso antes del registro, con una exploración activa de opciones, muchas veces comparando múltiples experiencias de turismo responsable.
+  
+- Este usuario se registra con la intención de aprovechar funcionalidades avanzadas como guardar tours favoritos, recibir recomendaciones personalizadas, y gestionar múltiples reservas. Navega regularmente la plataforma, mantiene actualizado su perfil, y deja reseñas de sus experiencias, valorando la posibilidad de interactuar con la comunidad y contribuir a la mejora de los servicios ofrecidos.
+  
+- Su viaje es cíclico: busca, compara, reserva, evalúa, y repite. A lo largo del tiempo, se convierte en un embajador de la marca, recomendando la plataforma a otros viajeros y contribuyendo activamente a la mejora de los contenidos.
+
+Tanto los Turistas Ocasionales como los Turistas Frecuentes comparten el deseo de acceder a experiencias significativas y auténticas de turismo responsable. Sin embargo, sus interacciones con la plataforma difieren en profundidad y frecuencia.
+
+
+- #### *Turistas Ocasionales*
+| Etapa                         | Acción del usuario (Turista ocasional)       | Emoción         | Canal                       | Oportunidad de mejora                           |
+|------------------------------|----------------------------------------------|-----------------|-----------------------------|------------------------------------------------|
+| Descubrimiento               | Encuentra la plataforma por redes o buscador | Curiosidad      | Web, redes sociales         | Mejorar posicionamiento SEO y contenido visual |
+| Registro                     | Se registra para ver detalles de un tour     | Interés         | Página web                  | Simplificar el proceso de registro             |
+| Exploración                  | Navega tours sin un objetivo claro           | Confusión       | Navegador                   | Sugerencias iniciales según localización       |
+| Reserva                      | Selecciona y reserva un tour                 | Satisfacción    | Página de reservas          | Ofrecer asistencia en tiempo real              |
+| Participación en el tour     | Asiste a la actividad                        | Entusiasmo      | Presencial                  | Recordatorios y checklist antes del tour       |
+| Post-experiencia             | Puede dejar una reseña o no                  | Desconexión     | Email, web                  | Incentivar feedback con recompensas            |
+
+
+- #### *Turistas Frecuentes*
+| Etapa                         | Acción del usuario (Turista frecuente)       | Emoción         | Canal                       | Oportunidad de mejora                           |
+|------------------------------|----------------------------------------------|-----------------|-----------------------------|------------------------------------------------|
+| Descubrimiento               | Visita frecuente para buscar nuevos tours    | Entusiasmo      | App, web                    | Notificaciones personalizadas                   |
+| Registro                     | Ya registrado                                | Confianza       | Web/App                     | Acceso rápido con login automático              |
+| Exploración                  | Usa filtros, compara, guarda favoritos       | Seguridad       | App, navegador              | Mostrar experiencias similares                  |
+| Reserva                      | Reserva múltiples tours                      | Expectativa     | Plataforma                  | Ofrecer paquetes personalizados                 |
+| Participación en el tour     | Asiste a las actividades                     | Entusiasmo      | Presencial                  | Opciones de compartir en redes sociales         |
+| Post-experiencia             | Deja reseña y comparte experiencia           | Compromiso      | Web, email, redes           | Programa de fidelización o referidos            |
+
+
