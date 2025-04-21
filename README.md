@@ -199,3 +199,5 @@
 
 
 ## <a name="c4"></a> 4.8. Domain-Driven Software Architecture.
+### <a name="c4-context"></a> 4.8.1. Software Architecture Context Diagram.
+![Context Diagram](images/c4-context.png)
