@@ -207,3 +207,7 @@
 ### <a name="c4-container"></a> 4.8.2. Software Architecture Container Diagrams.
 
 ![Container Diagram](images/c4-container.png)
+
+### <a name="c4-components"></a> 4.8.3. Software Architecture Components Diagrams.
+
+![Component Diagram](images/c4-components.png)
