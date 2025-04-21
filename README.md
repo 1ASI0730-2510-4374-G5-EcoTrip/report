@@ -77,6 +77,9 @@
 
 3.1. To-Be Scenario Mapping.
 
+![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/TO%20BE.png?alt=media&token=64e3d77d-0ba3-40df-bd1a-71ddc96142fa)
+
+
 3.2. User Stories.
 
 | **Epic / Story ID** | **Título** | **Descripción** | **Criterios de Aceptación (Gherkin)** | **Relacionado con (Epic ID)** |
