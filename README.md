@@ -77,7 +77,25 @@
 
 3.1. To-Be Scenario Mapping.
 
-![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/TO%20BE.png?alt=media&token=64e3d77d-0ba3-40df-bd1a-71ddc96142fa)
+En esta sección se presenta el *To-Be Scenario Mapping* para cada uno de los segmentos de usuarios identificados: **Turistas Frecuentes** y **Turistas Ocasionales**. Este análisis tiene como objetivo visualizar cómo se transformaría la experiencia de estos usuarios al utilizar **EcoTrip**, una plataforma digital enfocada en la planificación y reserva de experiencias de viaje sostenibles.
+
+A través del uso de EcoTrip, se busca mejorar los puntos de dolor detectados en el As-Is Scenario Mapping, ofreciendo una experiencia más intuitiva, informada y alineada con valores de responsabilidad ambiental y sostenibilidad. El mapeo considera los cambios clave que esta nueva solución podría aportar en términos de comportamiento, pensamiento y emociones de los usuarios.
+
+El proceso de elaboración del To-Be Scenario Mapping siguió las siguientes etapas:
+
+- **Preparación:** Revisión de los insights obtenidos del As-Is Scenario Mapping.
+- **Lluvia de ideas individual:** Identificación de posibles soluciones y mejoras centradas en el usuario.
+- **Revisión e identificación de fases:** Se mantuvieron las mismas fases empleadas en el análisis As-Is para asegurar comparabilidad.
+- **Comparación con el As-Is:** Se contrastó con el escenario actual para identificar mejoras concretas, tanto funcionales como emocionales.
+
+Las fases consideradas en este análisis son: **Descubrimiento, Evaluación, Reserva, Experiencia y Seguimiento.**
+
+
+#### To-Be Scenario Mapping – Turista Frecuente
+![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/tobe1.jpg?alt=media&token=462ed5e0-3ddc-4eb1-b2c6-3bdcf1e759a5)
+
+#### To-Be Scenario Mapping – Turista Ocasional
+![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/tobe2.jpg?alt=media&token=5669aba7-5f26-41ff-9548-fdd1c3a5084e)
 
 
 3.2. User Stories.
