@@ -375,4 +375,182 @@ Las estrategias de EcoTrip frente a sus competidores son:
 
 ### 2.2.2. Registro de entrevistas
 
+#### Entrevista 1 - Cliente
+
+**Entrevistador:** Anderson Gonza
+
+**Entrevistado:** Salvador Salinas
+
+Edad: 23 años
+
+Ocupación: Programador freelance
+
+Residencia: Lima, Perú
+
+**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120836_upc_edu_pe/EdIFRKsWsE5NkDlJaW2rn24BLqDtL3K0gaUY9ADINi2FhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Fkm3lW
+
+<div align="center">
+  <img src="./img/Salvador.PNG" alt="Logo de Visit.org" width="100%" />
+</div>
+
+#### Resumen de la entrevista
+
+Salvador es un programador freelance que viaja solo con mochila, buscando autenticidad y mínimo impacto ambiental. Ha hecho voluntariados de reforestación y organiza sus viajes desde su smartphone usando Instagram y blogs. Le frustra no encontrar fácilmente experiencias verdaderamente auténticas.
+
+#### Entrevista 2 - Cliente
+
+**Entrevistador:** Anderson Gonza
+
+**Entrevistado:** Marcos
+
+Edad: 20 años
+
+Ocupación: Estudiante de Ingeniería Ambiental
+
+Residencia: Lima, Perú
+
+**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120836_upc_edu_pe/Ecn81ZUtC0lIkv0iftk907QBCUFv5cW5h4287FDTk1YFZg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rXdblg
+
+<div align="center">
+  <img src="./img/Marcos.PNG" alt="Logo de Visit.org" width="100%" />
+</div>
+
+#### Resumen de la entrevista
+
+Marcos estudia ingeniería ambiental y viaja para aprender y colaborar directamente en conservación. Ha trabajado en rescates de animales en la selva y busca proyectos donde pueda involucrarse de verdad. Le molesta la falta de transparencia sobre el impacto real de muchas experiencias turísticas.
+
+#### Entrevista 3 - Cliente
+
+**Entrevistador:** Anderson Gonza
+
+**Entrevistado:** Oscar
+
+Edad: 22 años
+
+Ocupación: Estudiante de Administración de Empresas
+
+Residencia: Lima, Perú
+
+**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120836_upc_edu_pe/EeFNDUDzBBxHk-pqT2t1R4kBIZztjxTs9ATdjn360LJ90g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yI1daS
+
+<div align="center">
+  <img src="./img/Oscar.PNG" alt="Logo de Visit.org" width="100%" />
+</div>
+
+#### Resumen de la entrevista
+
+Oscar, estudiante de administración, viaja con amigos para desconectarse de la rutina. Le gustan los destinos únicos y económicos, y aunque antes no pensaba en el impacto social o ambiental, ahora sí lo valora. Se inspira en TikTok e Instagram, pero le cuesta confiar en que las experiencias sean realmente sostenibles.
+
+#### Entrevista 4 - Provedor
+
+**Entrevistador:** Anderson Gonza
+
+**Entrevistado:** Joaquin
+
+Edad: 27 años
+
+Rol: Propietario de un ecohostal en Oxapampa
+
+Tipo: Emprendimiento ecológico privado
+
+**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120836_upc_edu_pe/EVwxh00o199Mt8Xyh5limHABwAnrKvxi8nO9BWHetalSrA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Oa3bhT
+
+<div align="center">
+  <img src="./img/Joaquin.PNG" alt="Logo de Visit.org" width="100%" />
+</div>
+
+#### Resumen de la entrevista
+
+Joaquín dirige un ecohostal en Oxapampa donde mezcla naturaleza, gastronomía local y rutas poco conocidas. Aunque Airbnb e Instagram lo ayudan a atraer turistas, le gustaría menos dependencia de plataformas y más apoyo para destacar su propuesta ecológica auténtica.
+
+#### Entrevista 5 - Provedor
+
+**Entrevistador:** Anderson Gonza
+
+**Entrevistado:** Lizeth
+
+Edad: 26 años
+
+Rol: Coordinadora de programas de conservación en una ONG ambiental en Tarapoto.
+
+Tipo: Organización sin fines de lucro
+
+**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120836_upc_edu_pe/EUwfonQnWXVLoY9hKMP6mxMBNzYCQ68ym8faLh5DOd50xA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Z8aIda
+
+<div align="center">
+  <img src="./img/Lizeth.PNG" alt="Logo de Visit.org" width="100%" />
+</div>
+
+#### Resumen de la entrevista
+
+Lizet coordina voluntariados de conservación en Tarapoto a través de una ONG. Trabaja duro para acercar a jóvenes a causas ambientales reales, pero a veces le cuesta transmitir el valor de estas experiencias. Sueña con una red que priorice proyectos pequeños con impacto genuino.
+
+#### Entrevista 6 - Provedor
+
+**Entrevistador:** Anderson Gonza
+
+**Entrevistado:** Luis Quispe
+
+Edad: 25 años
+
+Rol: Líder joven de una comunidad que ofrece caminatas con guías locales en Cusco.
+
+Tipo: Comunidad rural
+
+**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120836_upc_edu_pe/EUdLuGiA06VDpBGteTFbhyIB_9ZJuZgivAOjZQ8Jj0vthA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6TbLRD
+
+<div align="center">
+  <img src="./img/Luis.PNG" alt="Logo de Visit.org" width="100%" />
+</div>
+
+#### Resumen de la entrevista
+
+Luis lidera una comunidad en Cusco que ofrece caminatas ancestrales y talleres culturales. Su gran reto es competir con agencias grandes y hacerse visible online. Usa Instagram y WhatsApp, y quisiera que se reconozca más el valor real de las experiencias comunitarias.
+
 ### 2.2.3. Análisis de entrevistas
+
+### Segmento: Turistas Jóvenes
+
+#### Perfil General:
+
+Edad: 20 a 23 años
+
+Residencia: Lima, Perú
+
+Ocupación: Estudiantes universitarios y profesionales jóvenes
+
+Modalidad de viaje: Viajan solos o en grupos de amigos
+
+Motivaciones de viaje: Búsqueda de experiencias auténticas, conexión con la naturaleza y aprendizaje cultural​
+
+#### Características Comunes:
+
+Conciencia ambiental: Muestran preocupación por el impacto ambiental y social de sus viajes.
+
+Participación en turismo sostenible: El 100% ha participado en actividades de turismo sostenible o comunitario.
+
+Canales de planificación: Todos utilizan redes sociales y plataformas digitales para planificar sus viajes.
+
+Frustraciones comunes: El 100% expresa dificultades para identificar experiencias verdaderamente sostenibles y evitar el "greenwashing"(publicidad engañosa).
+
+### Segmento: Proveedores de Turismo Sostenible
+
+#### Perfil General:
+
+Edad: 25 a 30 años
+
+Ubicación: Regiones como Cusco, Oxapampa y Tarapoto
+
+Tipo de organización: Comunidad rural, emprendimiento ecológico privado y ONG ambiental
+
+Roles: Líder comunitario, propietario de ecohostal y coordinador de programas de conservación​
+
+#### Características Comunes:
+
+Oferta de servicios: El 100% ofrece experiencias auténticas que incluyen actividades culturales, educativas y de conservación.
+
+Motivación: Todos están motivados por la preservación cultural y ambiental, así como por el desarrollo sostenible de sus comunidades.
+
+Canales de promoción: Todos utilizan plataformas digitales como Instagram, Airbnb y Booking para promocionar sus servicios.
+
+Desafíos comunes: El 100% enfrenta dificultades para competir con grandes operadores turísticos y lograr visibilidad en plataformas digitales.​
