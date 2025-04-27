@@ -130,10 +130,15 @@
 
 4.6.1. Software Architecture Context Diagram.
 
+![Context Diagram](images/c4-context.png)
+
 4.6.2. Software Architecture Container Diagrams.
+
+![Container Diagram](images/c4-container.png)
 
 4.6.3. Software Architecture Components Diagrams.
 
+![Component Diagram](images/c4-components.png)
 
 4.7. Software Object-Oriented Design.
 
@@ -192,22 +197,3 @@
 ### Conclusiones y recomendaciones.
 ### Video About-the-Team.
 
-
-
-# <a name="cap4"></a> Capítulo IV: Product Design
-## <a name="web-prototype"></a> 4.7 Web Applications Prototyping
-
-
-## <a name="c4"></a> 4.8. Domain-Driven Software Architecture.
-
-### <a name="c4-context"></a> 4.8.1. Software Architecture Context Diagram.
-
-![Context Diagram](images/c4-context.png)
-
-### <a name="c4-container"></a> 4.8.2. Software Architecture Container Diagrams.
-
-![Container Diagram](images/c4-container.png)
-
-### <a name="c4-components"></a> 4.8.3. Software Architecture Components Diagrams.
-
-![Component Diagram](images/c4-components.png)
