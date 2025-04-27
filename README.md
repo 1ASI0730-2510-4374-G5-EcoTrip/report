@@ -120,7 +120,9 @@
        con resultados positivos, entonces aumentaremos el número de reservas en la plataforma.
 
 ##### 1.2.2.4. Lean UX Canvas.
-
+ <div align="center">
+  <img src="Lean UX Canvas.jpg" alt="" width="90%" />
+</div>
 ## 1.3. Segmentos objetivo.
 
 El ecoturismo en el Peru se considera un sector expansion con un crecimiento que supera el 13% anual hasta el año 2032. para ello identificamos el primer segmento objetivo como 
