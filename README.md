@@ -3,9 +3,12 @@
 
 ### Universidad Peruana de ciencias Aplicadas 
 
-<img src ="img/UPC_logo_transparente">
+<img src ="img/UPC_logo_transparente.png">
+
 ### Ingeniería de Software
+
 ### 2025-01
+
 ### Código del Curso <br> y Nombre del curso
 
 
