@@ -616,9 +616,24 @@ A continuación los Mock ups, estos son los modelos de diseño que se utilizará
 
 5.2. Landing Page, Services & Applications Implementation.
 
-5.2.X. Sprint n
+5.2.X. Sprint 1
 
-5.2.X.1. Sprint Planning n.
+5.2.X.1. Sprint Planning 1.
+
+| **Sprint #**                  | Sprint 1 |
+|--------------------------------|----------|
+| **Sprint Planning Background** | |
+| **Date**                       | 26 de abril del 2025 |
+| **Time**                       | 18:00 horas  |
+| **Location**                   | Modalidad remota a través de la plataforma Google Meet |
+| **Prepared By**                | Todos los integrantes del equipo EcoTrip |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo EcoTrip |
+| **Sprint 0 Review Summary**    | Dado que es nuestro primer sprint de desarrollo, aún no se ha realizado un resumen del sprint anterior. |
+| **Sprint 0 Retrospective Summary** | No se identificaron mejoras ya que es el primer sprint. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 1 Goal**              | En este sprint, nuestro enfoque está en describir nuestra startup y en construir la estructura de la Landing Page y los sistemas principales de navegación y búsqueda de EcoTrip. Se desarrollarán los primeros módulos visibles, asegurando que la navegación y búsqueda sean funcionales para usuarios frecuentes y ocasionales. El objetivo es facilitar el descubrimiento de experiencias sostenibles. |
+| **Sprint 1 Velocity**          | 5 |
+| **Sum of Story Points**        | 5 |
 
 5.2.X.2. Aspect Leaders and Collaborators.
 
