@@ -581,10 +581,15 @@ A continuación los Mock ups, estos son los modelos de diseño que se utilizará
 
 4.6.1. Software Architecture Context Diagram.
 
+![Context Diagram](images/c4-context.png)
+
 4.6.2. Software Architecture Container Diagrams.
+
+![Container Diagram](images/c4-container.png)
 
 4.6.3. Software Architecture Components Diagrams.
 
+![Component Diagram](images/c4-components.png)
 
 4.7. Software Object-Oriented Design.
 
