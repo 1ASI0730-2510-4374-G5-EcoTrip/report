@@ -81,6 +81,16 @@
 
 3.3. Impact Mapping.
 
+#### Mapa de segmento turistas responsable:
+
+<img src= "img/imp.map_1ST.PNG">
+
+<img src= "img/imp.map._2ST.PNG">
+
+#### Mapa de segmento proveedores turisticos ecologicos:
+
+<img src= "img/imp.map_3SP.PNG">
+
 3.4. Product Backlog.
 
 
