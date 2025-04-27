@@ -111,8 +111,23 @@
 
 4.3.1. Landing Page Wireframe.
 
+<img src="image/wireframe1.JPG">
+<img src="image/wf2.JPG">
+<img src="image/wf3.JPG">
+<img src="image/wf4.JPG">
+
+
+
 4.3.2. Landing Page Mock-up.
 
+A continuación los Mock ups, estos son los modelos de diseño que se utilizarán en la elaboración del landing page y servirá de modelo y base para la elaboración del programa. 
+
+<img src="image/portada.JPG">
+<img src="image/booking.JPG">
+<img src="image/destinos.JPG">
+<img src="image/paquetes.JPG">
+<img src="image/reviews.JPG">
+<img src="image/footer.JPG">
 
 4.4. Web Applications UX/UI Design.
 
