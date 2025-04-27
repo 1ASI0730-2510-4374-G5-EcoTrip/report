@@ -19,118 +19,28 @@
 ### Student Outcome
 
 ### Capítulo I: Introducción<br>
-## 1.1. Startup Profile
 
-### 1.1.1. Descripción de la Startup
-   BoomNova es un startup con enfoque en el mercado turístico, ofrecemos otras opciones a las guías turísticas convencionales, 
-   con nuestro software buscamos facilitar e impulsar el ecoturismo.
-### 1.1.2. Perfiles de integrantes del equipo
-  
-## 1.2. Solution Profile
+1.1. Startup Profile
 
-### 1.2.1 Antecedentes y problemática
+1.1.1. Descripción de la Startup
 
-#### Descripción de la problemática
+1.1.2. Perfiles de integrantes del equipo
 
-  EcoTrip es una plataforma digital orientada al sector del ecoturismo que busca conectar a viajeros con experiencias 
-  turísticas responsables, sostenibles y auténticas.Nuestro objetivo es promover destinos que respeten el medio ambiente 
-  y  beneficien a las comunidades locales.
-### 1.2.2 Lean UX Process.
+1.2. Solution Profile
 
-  ## What?
+1.2.1 Antecedentes y problemática
 
-  ## ¿Cuál es el problema?
+1.2.2 Lean UX Process.
 
-  El problema que hemos encontrado es la falta de foco(reemplazar) que se dan a las comunidades
-  locales al momento de la compra de ya sean servicios turisticos como guias o productos elaborados por los originarios 
+1.2.2.1. Lean UX Problem Statements.
 
-  ## When?
+1.2.2.2. Lean UX Assumptions.
 
-  ## ¿Cuándo sucede el problema?
+1.2.2.3. Lean UX Hypothesis Statements.
 
-  El problema sucede cuando los turistas optan por adquirir un plan turistico convencional en lugar de uno que cumpla con estandares ecoamigables, 
-  que no dañen el medio ambiente ni perjudiquen a las comunidades locales.
+1.2.2.4. Lean UX Canvas.
 
-  ## Where?
-
-  ## ¿Dónde surge el problema?
-   
-  El problema surge en destinos turisticos donde se ofrecen mayormente guias convencionales. 
-
-  ## Who?
-
-  ## ¿Quiénes estan involucrados?
-     
-  Los principales involucrados son las personas que adquieren servicios turisticos y los locales de dichos destinos.
-
-  ## Why?
-
-  ## ¿Cuál es la causa del problema?  
-
-  La causa del problema es la falta de servicios turiscos que no afecten a al ambiente de manera significativa.
-
-  ## How?
-
-  ## ¿Como se lleva a cabo los hechos?
-  Se llevan a cabo cuando un posible turista busca guias en plataformas de viaje y estas no ofrecen regularmente paquetes ecoamigables.
-
-  ## How Much?
-
-  ## ¿Cual es la magnitud del problema?
-  La magnitud de esta problematica es grande puesto que afecta directamente a las vidas de muchas personas
-  locales que afrontan las consecuencias como la alza de precios en servicios y productos ademas 
-
-## Lean UX Process
-
-### 1.2.2.1. Lean UX Problem Statements.
-
-  En la actualidad, los turistas eco amigables y conscientes enfrentan dificultades para encontrar guías que sean sostenibles, autenticas y
-  que apoyen a las comunidades locales de forma directa, las opciones de turismo tradicional se enfocan en la rentabilidad que contribuye poco al cuidado del ambiente.
-
-  -¿De que manera podemos ayudar a los turistas responsables a encontrar fácilmente estas experiencias?
-     
-#### 1.2.2.2. Lean UX Assumptions.
-
-  ##### Business Assumptions
-
-  -Aplicación de fácil uso con una interfaz simple e intuitiva.
-  -La aplicación será económicamente sostenible gracias a las comisiones por reserva según su tipo de servicio. 
-  -Negocios y guías locales interesados en plataformas que les permita conectar con ecoturistas en busca de experiencias únicas. 
-  -BoomNova se diferencia de otras plataformas de turismo por su enfoque en apoyar a las comunidades locales.
-  -Existe un mercado de ecoturistas que está dispuesto a pagar más por experiencias eco amigables y auténticas.
-
-  ##### User Assumptions
-
-  -Los ecoturistas buscan experiencias que afecten de manera directa a las comunidades.
-  -Los usuarios buscan una experiencia de búsqueda fácil y sencilla.
-  -Los ecoturistas están dispuestos a pagar más siempre que se verifique que contribuimos a la a sostenibilidad de estas experiencias.
-  -Los ecoturistas buscan experiencias distintas a las convencionales.
-  -Los ecoturistas buscan tener un impacto positivo a los destinos que visitaron.
-
-#### 1.2.2.3. Lean UX Hypothesis Statements.
-
-  -Creemos que si les ofrecemos a los turistas eco amigables una plataforma que los conecte directamente con guías y negocios locales que están comprometidos con 
-   la sostenibilidad más turistas utilizaran nuestro producto para planificar sus viajes.
- -Creemos que los negocios y guías locales sostenibles quieren aumentar su clientela, si creamos un espacio donde puedan ofrecer sus servicios y productos 
-    más negocios se registran a la plataforma.
-  -Creemos que los ecoturistas 
-  -Creemos que los ecoturistas valoran el impacto de sus decisiones de viaje. Si ofrecemos información sobre cómo las experiencias apoyan a las comunidades y al medio ambiente, 
-   entonces los usuarios confiarán más en BoomNova.
-   -Creemos que los usuarios prefieren plataformas fáciles de usar y que puedan confiar en ellas. Si diseñamos una experiencia de usuario intuitiva y con testimonios 
-       con resultados positivos, entonces aumentaremos el número de reservas en la plataforma.
-
-##### 1.2.2.4. Lean UX Canvas.
- <div align="center">
-  <img src="Lean UX Canvas.jpg" alt="" width="90%" />
-</div>
-## 1.3. Segmentos objetivo.
-
-El ecoturismo en el Peru se considera un sector expansion con un crecimiento que supera el 13% anual hasta el año 2032. para ello identificamos el primer segmento objetivo como 
-turistas responsables quienes buscan guias sostenibles, ademas de apoyar a la comunidad que ellos visitan.
-
-El segundo segmento objetivo son proveedores turísticos sostenibles, el turismo sostenible es un mercado que esta en crecimiento en el Perú ya que es un pais
-con mucha riqueza natural y que ofrece una gran cantidad de destinos con poblaciones que tienen al turismo como fuente principal de ingresos.
-
+1.3. Segmentos objetivo.
 ### Capítulo II: Requirements Elicitation & Analysis
 
 2.1. Competidores.
@@ -280,3 +190,119 @@ con mucha riqueza natural y que ofrece una gran cantidad de destinos con poblaci
 ### Conclusiones
 ### Conclusiones y recomendaciones.
 ### Video About-the-Team.
+
+
+
+
+
+## 1.1. Startup Profile
+
+### 1.1.1. Descripción de la Startup
+   BoomNova es un startup con enfoque en el mercado turístico, ofrecemos otras opciones a las guías turísticas convencionales, 
+   con nuestro software buscamos facilitar e impulsar el ecoturismo.
+### 1.1.2. Perfiles de integrantes del equipo
+  
+## 1.2. Solution Profile
+
+### 1.2.1 Antecedentes y problemática
+
+#### Descripción de la problemática
+
+  EcoTrip es una plataforma digital orientada al sector del ecoturismo que busca conectar a viajeros con experiencias 
+  turísticas responsables, sostenibles y auténticas.Nuestro objetivo es promover destinos que respeten el medio ambiente 
+  y  beneficien a las comunidades locales.
+### 1.2.2 Lean UX Process.
+
+  ## What?
+
+  ## ¿Cuál es el problema?
+
+  El problema que hemos encontrado es la falta de foco(reemplazar) que se dan a las comunidades
+  locales al momento de la compra de ya sean servicios turisticos como guias o productos elaborados por los originarios 
+
+  ## When?
+
+  ## ¿Cuándo sucede el problema?
+
+  El problema sucede cuando los turistas optan por adquirir un plan turistico convencional en lugar de uno que cumpla con estandares ecoamigables, 
+  que no dañen el medio ambiente ni perjudiquen a las comunidades locales.
+
+  ## Where?
+
+  ## ¿Dónde surge el problema?
+   
+  El problema surge en destinos turisticos donde se ofrecen mayormente guias convencionales. 
+
+  ## Who?
+
+  ## ¿Quiénes estan involucrados?
+     
+  Los principales involucrados son las personas que adquieren servicios turisticos y los locales de dichos destinos.
+
+  ## Why?
+
+  ## ¿Cuál es la causa del problema?  
+
+  La causa del problema es la falta de servicios turiscos que no afecten a al ambiente de manera significativa.
+
+  ## How?
+
+  ## ¿Como se lleva a cabo los hechos?
+  Se llevan a cabo cuando un posible turista busca guias en plataformas de viaje y estas no ofrecen regularmente paquetes ecoamigables.
+
+  ## How Much?
+
+  ## ¿Cual es la magnitud del problema?
+  La magnitud de esta problematica es grande puesto que afecta directamente a las vidas de muchas personas
+  locales que afrontan las consecuencias como la alza de precios en servicios y productos ademas 
+
+## Lean UX Process
+
+### 1.2.2.1. Lean UX Problem Statements.
+
+  En la actualidad, los turistas eco amigables y conscientes enfrentan dificultades para encontrar guías que sean sostenibles, autenticas y
+  que apoyen a las comunidades locales de forma directa, las opciones de turismo tradicional se enfocan en la rentabilidad que contribuye poco al cuidado del ambiente.
+
+  -¿De que manera podemos ayudar a los turistas responsables a encontrar fácilmente estas experiencias?
+     
+#### 1.2.2.2. Lean UX Assumptions.
+
+  ##### Business Assumptions
+
+  -Aplicación de fácil uso con una interfaz simple e intuitiva.
+  -La aplicación será económicamente sostenible gracias a las comisiones por reserva según su tipo de servicio. 
+  -Negocios y guías locales interesados en plataformas que les permita conectar con ecoturistas en busca de experiencias únicas. 
+  -BoomNova se diferencia de otras plataformas de turismo por su enfoque en apoyar a las comunidades locales.
+  -Existe un mercado de ecoturistas que está dispuesto a pagar más por experiencias eco amigables y auténticas.
+
+  ##### User Assumptions
+
+  -Los ecoturistas buscan experiencias que afecten de manera directa a las comunidades.
+  -Los usuarios buscan una experiencia de búsqueda fácil y sencilla.
+  -Los ecoturistas están dispuestos a pagar más siempre que se verifique que contribuimos a la a sostenibilidad de estas experiencias.
+  -Los ecoturistas buscan experiencias distintas a las convencionales.
+  -Los ecoturistas buscan tener un impacto positivo a los destinos que visitaron.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements.
+
+  -Creemos que si les ofrecemos a los turistas eco amigables una plataforma que los conecte directamente con guías y negocios locales que están comprometidos con 
+   la sostenibilidad más turistas utilizaran nuestro producto para planificar sus viajes.
+ -Creemos que los negocios y guías locales sostenibles quieren aumentar su clientela, si creamos un espacio donde puedan ofrecer sus servicios y productos 
+    más negocios se registran a la plataforma.
+  -Creemos que los ecoturistas 
+  -Creemos que los ecoturistas valoran el impacto de sus decisiones de viaje. Si ofrecemos información sobre cómo las experiencias apoyan a las comunidades y al medio ambiente, 
+   entonces los usuarios confiarán más en BoomNova.
+   -Creemos que los usuarios prefieren plataformas fáciles de usar y que puedan confiar en ellas. Si diseñamos una experiencia de usuario intuitiva y con testimonios 
+       con resultados positivos, entonces aumentaremos el número de reservas en la plataforma.
+
+##### 1.2.2.4. Lean UX Canvas.
+ <div align="center">
+  <img src="Lean UX Canvas.jpg" alt="" width="90%" />
+</div>
+## 1.3. Segmentos objetivo.
+
+El ecoturismo en el Peru se considera un sector expansion con un crecimiento que supera el 13% anual hasta el año 2032. para ello identificamos el primer segmento objetivo como 
+turistas responsables quienes buscan guias sostenibles, ademas de apoyar a la comunidad que ellos visitan.
+
+El segundo segmento objetivo son proveedores turísticos sostenibles, el turismo sostenible es un mercado que esta en crecimiento en el Perú ya que es un pais
+con mucha riqueza natural y que ofrece una gran cantidad de destinos con poblaciones que tienen al turismo como fuente principal de ingresos.
