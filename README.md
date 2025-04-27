@@ -2,8 +2,13 @@
 
 
 ### Universidad Peruana de ciencias Aplicadas 
+
+<img src ="img/UPC_logo_transparente.png">
+
 ### Ingeniería de Software
+
 ### 2025-01
+
 ### Código del Curso <br> y Nombre del curso
 
 
@@ -203,9 +208,37 @@ El proceso contempla las siguientes fases clave: Descubrimiento, Evaluación, Re
 
 3.3. Impact Mapping.
 
+#### Mapa de segmento turistas responsable:
+
+<img src= "image/imp.map_1ST.PNG">
+
+<img src= "image/imp.map._2ST.PNG">
+
+#### Mapa de segmento proveedores turisticos ecologicos:
+
+<img src= "image/imp.map_3SP.PNG">
+
 3.4. Product Backlog.
 
 
+|ID | Título | Prioridad | Descripción|
+|--------------|--------------|--------------|--------------|
+|US-01 | Ver lista de experiencias sostenibles | Alta | Como turista ocasional quiero ver una lista de experiencias para explorar qué ofrece EcoTrip.|
+|US-01.1 | Filtrar experiencias por tipo | Alta | Como turista frecuente quiero filtrar experiencias por tipo para encontrar lo que me interesa.|
+|US-02 | Registro de proveedores | Alta | Como proveedor quiero registrarme para ofrecer mis servicios turísticos sostenibles.|
+|US-02.1 | Aprobación de proveedor | Alta | Como administrador quiero revisar y aprobar solicitudes de proveedores.|
+|US-03 | Crear plan de viaje personalizado | Media | Como turista frecuente quiero armar mi propio itinerario con actividades y hospedajes.|
+|US-03.1 | Sugerencias de itinerario basadas en intereses | Media | Como turista ocasional quiero recibir sugerencias de actividades según mi perfil.|
+|US-04 | Conexión con guías turísticos | Alta | Como turista frecuente quiero contactar guías que hablen mi idioma.|
+|US-04.1 | Reservar guía específico | Media | Como turista ocasional quiero poder reservar a un guía en específico.|
+|US-05 | Reservar y pagar experiencias | Alta | Como turista frecuente quiero reservar y pagar actividades de manera fácil.|
+|US-05.1 | Cancelar reserva y recibir reembolso | Media | Como turista ocasional quiero cancelar mi reserva si no podré asistir.|
+|US-06 | Página informativa sobre EcoTrip | Media | Como visitante quiero saber qué es EcoTrip y qué servicios ofrece.|
+|US-06.1 | Ver testimonios de otros viajeros | Baja | Como visitante quiero leer opiniones para confiar en la plataforma.|
+|US-07 | Gestión del portafolio de proveedores | Alta | Como proveedor quiero agregar, editar o eliminar mis experiencias.|
+|US-08 | Mejorar visibilidad de proveedores | Media | Como proveedor quiero mostrar mis calificaciones y reseñas públicas.|
+|US-09 | Registro y validación fácil para proveedores | Alta | Como proveedor quiero un proceso de registro rápido y sencillo.|
+|US-10 | Recibir pagos seguros como proveedor | Alta | Como proveedor quiero recibir mis pagos de manera segura y poder ver mi historial.|
 
 ### Capítulo IV: Product Design
 
