@@ -77,7 +77,7 @@
 
 3.1. To-Be Scenario Mapping.
 
-En esta sección se presenta el *To-Be Scenario Mapping* para cada uno de los segmentos de usuarios identificados: **Turistas Frecuentes** y **Turistas Ocasionales**. Este análisis tiene como objetivo visualizar cómo se transformaría la experiencia de estos usuarios al utilizar **EcoTrip**, una plataforma digital enfocada en la planificación y reserva de experiencias de viaje sostenibles.
+En esta sección se presenta el *To-Be Scenario Mapping* para cada uno de los segmentos de usuarios identificados: **Turistas Responsables** y **Proveedores Turísticos Sostenibles**. Este análisis tiene como objetivo visualizar cómo se transformaría la experiencia de estos usuarios al utilizar **EcoTrip**, una plataforma digital enfocada en la planificación y reserva de experiencias de viaje sostenibles.
 
 A través del uso de EcoTrip, se busca mejorar los puntos de dolor detectados en el As-Is Scenario Mapping, ofreciendo una experiencia más intuitiva, informada y alineada con valores de responsabilidad ambiental y sostenibilidad. El mapeo considera los cambios clave que esta nueva solución podría aportar en términos de comportamiento, pensamiento y emociones de los usuarios.
 
@@ -91,11 +91,11 @@ El proceso de elaboración del To-Be Scenario Mapping siguió las siguientes eta
 Las fases consideradas en este análisis son: **Descubrimiento, Evaluación, Reserva, Experiencia y Seguimiento.**
 
 
-#### To-Be Scenario Mapping – Turista Frecuente
-![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/tobe1.jpg?alt=media&token=462ed5e0-3ddc-4eb1-b2c6-3bdcf1e759a5)
+#### To-Be Scenario Mapping – Turistas Responsables
+![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/tobe1.jpg?alt=media&token=16534694-15c3-4cf9-aedd-6f7f3e9d7fe4)
 
-#### To-Be Scenario Mapping – Turista Ocasional
-![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/tobe2.jpg?alt=media&token=5669aba7-5f26-41ff-9548-fdd1c3a5084e)
+#### To-Be Scenario Mapping – Proveedores Turísticos Sostenibles
+![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/tobe2.jpg?alt=media&token=da5d1a75-1f37-4e5e-abe0-e0b945fdbc1c)
 
 
 3.2. User Stories.
