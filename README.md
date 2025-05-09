@@ -7,18 +7,46 @@
 
 ### Ingeniería de Software
 
-### 2025-01
-
-### Código del Curso <br> y Nombre del curso
-
-
 ### 4374 - Aplicaciones Web
-### Nombre del profesor
+### Docente: Alberto Wilmer Sanchez Seña
 ### "Informe de Trabajo Final"
-### Nombre del startup<br>
-### Nombre del producto<br>
-### Relación de integrantes (Incluyendo en cada caso Código, Apellidos y Nombres)<br>
-### Mes y año<br>
+### Startup: BoomNova<br>
+### Producto: EcoTrip<br>
+
+<div style="display: flex; justify-content: center; font-family: 'Roboto', sans-serif;">
+    <table style="border-collapse: collapse; border: 1px solid #ddd; width: auto; margin: 20px;">
+        <thead>
+            <tr>
+                <th style="border: 1px solid #ddd; padding: 8px;">Nombre</th>
+                <th style="border: 1px solid #ddd; padding: 8px;">Código</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">Tuesta Marin Romina</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Codigo</td>
+            </tr>
+             <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">Acosta Elera Abraam Bernabe</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">U202219199</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">Mio Mejia Andy Alejandro</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Codigo</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">Gonza Morales Anderson</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Codigo</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">Ramos Aguirre Aldair</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Codigo</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+### 2025-1<br>
 ---------------------------------------------------------------------------------------------------------------------------
 ### Tabla de contenidos
 ### Student Outcome
