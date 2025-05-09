@@ -51,6 +51,28 @@
 ### Tabla de contenidos
 ### Student Outcome
 
+<table>
+    <thead>
+        <tr>
+            <th>Criterio específico</th>
+            <th>Acciones realizadas</th>
+            <th>Conclusiones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta <br> rangos de audiencia.</td>
+            <td>Romina Tuesta <br> TB1: <br> TP1: <br><br>Abraam Acosta<br> TB1: Participé en el desarrollo de la startup como la elaboracion de los user stories y realicé aportes en la planificación. <br> TP1: Desarrollé mi parte correspondiente del frontend, construí mi apartado funcional y corregí errores en el documento final del reporte. <br><br>Andy Mio<br> TB1: <br> TP1: <br><br>AndersoGonza<br> TB1: <br> TP1: <br><br>Aldair Ramos<br> TB1: <br> TP1: <br></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
+            <td>Romina Tuesta <br> TB1: <br> TP1: <br><br>Abraam Acosta<br> TB1: Participé en sesiones grupales para definir objetivos y tareas del sprint. <br> TP1: Colaboré planificando tareas, cumplí con mis tareas asignadas en frontend a tiempo y ayudé a revisar errores del documento final para cumplir los objetivos del sprint.<br><br>Andy Mio<br> TB1: <br> TP1: <br><br>Anderson Gonza<br> TB1: <br> TP1: <br><br>Aldair Ramos<br> TB1: <br> TP1: </td>
+            <td><br></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Capítulo I: Introducción<br>
 ## 1.1. Startup Profile
 
