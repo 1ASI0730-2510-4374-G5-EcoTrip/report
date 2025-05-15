@@ -241,7 +241,7 @@ con mucha riqueza natural y que ofrece una gran cantidad de destinos con poblaci
     <td valign="top">Visit.org</td>
   </tr>
   <tr>
-    <td valign="top"><img src="./img/LogoEcoTrip.png" alt="Logo de EcoTrip" height="90px"></td>
+    <td valign="top"><img src="./img/LogoEcoTrip.PNG" alt="Logo de EcoTrip" height="90px"></td>
     <td valign="top"><img src="./img/airbnb.png" alt="Logo de Airbnb" height="90px"></td>
     <td valign="top"><img src="./img/gyg.png" alt="Logo de GetYourGuide" height="100px"></td>
     <td valign="top"><img src="./img/visit.png" alt="Logo de Visit.org" height="100px"></td>
