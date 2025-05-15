@@ -6,16 +6,11 @@
 
 <img src ="img/UPC_logo_transparente.png">
 
-
 ### Ingeniería de Software
-
-
 
 ### 4374 - Aplicaciones Web
 
 ### Docente: Alberto Wilmer Sanchez Seña
-
-
 
 ### "Informe de Trabajo Final"
 
@@ -210,17 +205,380 @@ con mucha riqueza natural y que ofrece una gran cantidad de destinos con poblaci
 
 ## 2.1 Competidores
 
+- **Airbnb Experiences**: Es una plataforma de Airbnb que ofrece actividades únicas y auténticas diseñadas y guiadas por locales en diversas ciudades alrededor del mundo. A diferencia de los alojamientos tradicionales de Airbnb, las Experiencias se centran en vivir momentos memorables, aprender nuevas habilidades o descubrir la cultura local desde una perspectiva diferente.
+
+<div align="center">
+  <img src="./img/airbnb.png" alt="Logo de Airbnb" width="15%" />
+</div>
+
+- **GetYourGuide**: Es una plataforma global de reservas en línea especializada en experiencias turísticas, tours y actividades en destinos de todo el mundo. Funciona como un mercado digital donde los viajeros pueden descubrir y reservar excursiones, visitas guiadas, entradas a atracciones y actividades únicas con proveedores locales.
+
+<div align="center">
+  <img src="./img/gyg.png" alt="Logo de GetYourGuide" width="15%" />
+</div>
+
+- **Visit.org**: Visit.org es una plataforma global de reservas de experiencias de viaje con impacto social, que conecta a viajeros con tours y actividades operados por organizaciones sin fines de lucro (ONGs) y empresas sociales alrededor del mundo. Su objetivo es promover un turismo sostenible y responsable, donde el dinero gastado en experiencias beneficie directamente a comunidades locales y causas sociales.
+
+<div align="center">
+  <img src="./img/visit.png" alt="Logo de Visit.org" width="15%" />
+</div>
+
 ### 2.1.1. Análisis competitivo
 
+<table>
+  <tr>
+    <th colspan="6" valign="top">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4" valign="top">El objetivo de este análisis es identificar las características de los competidores y encontrar maneras de diferenciarnos.</td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
+    <td valign="top">EcoTrip</td>
+    <td valign="top">Airbnb Experiences</td>
+    <td valign="top">GetYourGuide</td>
+    <td valign="top">Visit.org</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="./img/LogoEcoTrip.PNG" alt="Logo de EcoTrip" height="90px"></td>
+    <td valign="top"><img src="./img/airbnb.png" alt="Logo de Airbnb" height="90px"></td>
+    <td valign="top"><img src="./img/gyg.png" alt="Logo de GetYourGuide" height="100px"></td>
+    <td valign="top"><img src="./img/visit.png" alt="Logo de Visit.org" height="100px"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil</td>
+    <td valign="top">Overview</td>
+    <td valign="top">Plataforma que conecta viajeros con experiencias sostenibles, auténticas y responsables, priorizando el impacto ambiental y comunitario.</td>
+    <td valign="top">Plataforma de Airbnb para experiencias guiadas por locales (culturales, gastronómicas, etc.).</td>
+    <td valign="top">Plataforma global para reservar tours y actividades guiadas.</td>
+    <td valign="top">Plataforma que ofrece actividades con impacto social y ambiental junto a ONGs y empresas sociales.</td>
+  </tr>
+  <tr>
+    <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td valign="top">Diseño de experiencias sostenibles, conexión con comunidades indígenas, guías multilingües, impacto positivo medible.</td>
+    <td valign="top">Fuerte comunidad de anfitriones y viajeros; integración con su app de alojamiento.</td>
+    <td valign="top">Gran cobertura y variedad de actividades urbanas en múltiples idiomas.</td>
+    <td valign="top">Enfoque exclusivo en impacto social con ONGs verificadas.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil de Marketing</td>
+    <td valign="top">Mercado objetivo</td>
+    <td valign="top">Turistas responsables, viajeros eco-conscientes y proveedores turísticos sostenibles.</td>
+    <td valign="top">Millennials, turistas urbanos, viajeros espontáneos.</td>
+    <td valign="top">Turistas internacionales y locales que buscan tours estructurados.</td>
+    <td valign="top">Empresas que quieren promover el turismo con impacto social.</td>
+  </tr>
+  <tr>
+    <td valign="top">Estrategias de marketing</td>
+    <td valign="top">Alianzas con ONGs, influencers sostenibles, campañas educativas.</td>
+    <td valign="top">Marketing por redes sociales, publicidad en la app, boca a boca.</td>
+    <td valign="top">SEO, anuncios pagados, campañas de video marketing.</td>
+    <td valign="top">Alianzas B2B con ONGs y empresas.</td>
+  </tr>
+  <tr>
+    <td rowspan="3" valign="top">Perfil de Producto</td>
+    <td valign="top">Productos & Servicios</td>
+    <td valign="top">Experiencias, voluntariados, guías locales, itinerarios inteligentes.</td>
+    <td valign="top">Experiencias locales, clases, tours y talleres.</td>
+    <td valign="top">Tours, tickets a atracciones, visitas guiadas.</td>
+    <td valign="top">Actividades solidarias y de impacto (voluntariado, talleres).</td>
+  </tr>
+  <tr>
+    <td valign="top">Precios & Costos</td>
+    <td valign="top">Comisión por reserva (transparente), servicios premium opcionales.</td>
+    <td valign="top">Comisión en cada experiencia + tarifa del anfitrión.</td>
+    <td valign="top">Comisión y precios fijos por actividad.</td>
+    <td valign="top">Costos varían según la ONG; comisión para Visit.org.</td>
+  </tr>
+  <tr>
+    <td valign="top">Canales de distribución (Web y/o Móvil)</td>
+    <td valign="top">Web y/o móvil</td>
+    <td valign="top">Web y App móvil</td>
+    <td valign="top">Web y App móvil</td>
+    <td valign="top">Web (limitado en app)</td>
+  </tr>
+  <tr>
+    <td rowspan="4" valign="top">Análisis SWOT</td>
+    <td valign="top">Fortalezas</td>
+    <td valign="top">Enfoque ecológico y social, propuesta diferenciada, nicho emergente.</td>
+    <td valign="top">Marca reconocida, red global, integración con hospedajes.</td>
+    <td valign="top">Amplia oferta, multilenguaje, presencia global.</td>
+    <td valign="top">Alta credibilidad social, alianza con ONGs, impacto real.</td>
+  </tr>
+  <tr>
+    <td valign="top">Debilidades</td>
+    <td valign="top">Plataforma nueva, baja visibilidad, dependencia de terceros.</td>
+    <td valign="top">Algunas experiencias no verificadas, saturación de oferta.</td>
+    <td valign="top">Falta de personalización, enfoque más comercial.</td>
+    <td valign="top">Oferta limitada geográficamente, poca variedad.</td>
+  </tr>
+  <tr>
+    <td valign="top">Oportunidades</td>
+    <td valign="top">Creciente interés por el ecoturismo, apoyo a lo local, viajeros conscientes.</td>
+    <td valign="top">Expansión de experiencias virtuales.</td>
+    <td valign="top">Crecimiento del turismo.</td>
+    <td valign="top">Aumento del interés por turismo con propósito.</td>
+  </tr>
+  <tr>
+    <td valign="top">Amenazas</td>
+    <td valign="top">Competencia consolidada, regulación turística, baja adopción tecnológica local.</td>
+    <td valign="top">Legislación local, críticas por experiencias no auténticas.</td>
+    <td valign="top">Competencia con Airbnb y nuevas plataformas.</td>
+    <td valign="top">Bajo conocimiento de marca en algunos países.</td>
+  </tr>
+</table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+Las estrategias de EcoTrip frente a sus competidores son:
+
+- Evaluación sostenible verificada: A diferencia de Airbnb o Lokafy, todas las experiencias en EcoTrip pasarán por una validación basada en criterios ambientales, sociales y culturales.
+
+  - Tactica: Incluir testimonios de turistas responsables para reforzar la credibilidad de las experiencias.
+
+- Asistencia personalizada con itinerarios inteligentes: Una herramienta gratuita para armar viajes a medida y un servicio premium para optimizar experiencias según presupuesto, tiempo e impacto.
+
+  - Tactica: Desarrollar una herramienta digital(intinerario) gratuita (AppWeb) donde el usuario ingrese intereses de experiencias, tiempo y presupuesto.
+
+- Servicio multilingüe y culturalmente contextualizado: Conexión entre turistas y guías que no solo hablen su idioma, sino que comprendan sus referencias culturales.
+
+  - Tactica: Incluir en la plataforma una opción para solicitar un guía que entienda ciertos valores o estilos de viaje
+
+- Modelo inclusivo para proveedores pequeños: Plan freemium para que guías y comunidades puedan tener presencia en la plataforma sin costo inicial.
+
+  - Tactica: Ofrecer un plan gratuito con acceso básico a la plataforma, ideal para comunidades rurales o nuevos emprendimientos.
 
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
 
+**Turistas**
+
+- ¿Qué te motiva a viajar?
+  (Explora si buscan aventura, relajación, conexión cultural, etc.)
+
+- ¿Has participado antes en actividades de turismo sostenible o comunitario? ¿Cómo fue tu experiencia?
+
+- ¿Qué factores tomas en cuenta al elegir un destino o experiencia turística?
+
+- ¿Qué tan importante es para ti el impacto ambiental y social del lugar o actividad que visitas?
+
+- ¿Qué canales usas normalmente para planear o reservar tus viajes? (Webs, apps, redes sociales, agencias, etc.)
+
+- ¿Cuáles han sido tus principales frustraciones al buscar experiencias de viaje más auténticas o sostenibles?
+
+- ¿Qué te haría confiar en una plataforma de turismo sostenible?
+
+**Proveedores**
+
+- ¿Cómo describirías los servicios o experiencias que ofreces a los turistas?
+
+- ¿Qué te motivó a ofrecer experiencias turísticas sostenibles o comunitarias?
+
+- ¿Cuáles son tus principales desafíos para atraer y conectar con turistas?
+
+- ¿Qué medios usas actualmente para promocionar tus servicios? ¿Con qué frecuencia los usas?
+
+- ¿Qué tipo de turistas suelen visitarte? ¿Qué valoran más de lo que ofreces?
+
+- ¿Has tenido alguna experiencia con plataformas digitales de turismo? ¿Cómo fue?
+
+- ¿Qué mejoras te gustaría ver en la forma de promocionar y gestionar tus experiencias?
+
 ### 2.2.2. Registro de entrevistas
 
+#### Entrevista 1 - Turista
+
+**Entrevistador:** Anderson Gonza
+
+**Entrevistado:** Salvador Salinas
+
+Edad: 23 años
+
+Ocupación: Programador freelance
+
+Residencia: Lima, Perú
+
+Duracion: 8:42
+
+[**Link de la entrevista**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120836_upc_edu_pe/EdIFRKsWsE5NkDlJaW2rn24BLqDtL3K0gaUY9ADINi2FhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Fkm3lW)
+
+<div align="center">
+  <img src="./img/Salvador.PNG" alt="img_entrevista" width="100%" />
+</div>
+
+#### Resumen de la entrevista
+
+Salvador es un programador freelance que viaja solo con mochila, buscando autenticidad y mínimo impacto ambiental. Ha hecho voluntariados de reforestación y organiza sus viajes desde su smartphone usando Instagram y blogs. Le frustra no encontrar fácilmente experiencias verdaderamente auténticas.
+
+#### Entrevista 2 - Turista
+
+**Entrevistador:** Anderson Gonza
+
+**Entrevistado:** Marcos
+
+Edad: 20 años
+
+Ocupación: Estudiante de Ingeniería Ambiental
+
+Residencia: Lima, Perú
+
+Duracion: 6:12
+
+[**Link de la entrevista**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120836_upc_edu_pe/Ecn81ZUtC0lIkv0iftk907QBCUFv5cW5h4287FDTk1YFZg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rXdblg)
+
+<div align="center">
+  <img src="./img/Marcos.PNG" alt="img_entrevista" width="100%" />
+</div>
+
+#### Resumen de la entrevista
+
+Marcos estudia ingeniería ambiental y viaja para aprender y colaborar directamente en conservación. Ha trabajado en rescates de animales en la selva y busca proyectos donde pueda involucrarse de verdad. Le molesta la falta de transparencia sobre el impacto real de muchas experiencias turísticas.
+
+#### Entrevista 3 - Turista
+
+**Entrevistador:** Anderson Gonza
+
+**Entrevistado:** Oscar
+
+Edad: 22 años
+
+Ocupación: Estudiante de Administración de Empresas
+
+Residencia: Lima, Perú
+
+Duracion: 5:24
+
+[**Link de la entrevista**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120836_upc_edu_pe/EeFNDUDzBBxHk-pqT2t1R4kBIZztjxTs9ATdjn360LJ90g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yI1daS)
+
+<div align="center">
+  <img src="./img/Oscar.PNG" alt="img_entrevista" width="100%" />
+</div>
+
+#### Resumen de la entrevista
+
+Oscar, estudiante de administración, viaja con amigos para desconectarse de la rutina. Le gustan los destinos únicos y económicos, y aunque antes no pensaba en el impacto social o ambiental, ahora sí lo valora. Se inspira en TikTok e Instagram, pero le cuesta confiar en que las experiencias sean realmente sostenibles.
+
+#### Entrevista 4 - Provedor
+
+**Entrevistador:** Anderson Gonza
+
+**Entrevistado:** Joaquin
+
+Edad: 27 años
+
+Rol: Propietario de un ecohostal en Oxapampa
+
+Tipo: Emprendimiento ecológico privado
+
+Duracion: 4:54
+
+[**Link de la entrevista**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120836_upc_edu_pe/EVwxh00o199Mt8Xyh5limHABwAnrKvxi8nO9BWHetalSrA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Oa3bhT)
+
+<div align="center">
+  <img src="./img/Joaquin.PNG" alt="img_entrevista" width="100%" />
+</div>
+
+#### Resumen de la entrevista
+
+Joaquín dirige un ecohostal en Oxapampa donde mezcla naturaleza, gastronomía local y rutas poco conocidas. Aunque Airbnb e Instagram lo ayudan a atraer turistas, le gustaría menos dependencia de plataformas y más apoyo para destacar su propuesta ecológica auténtica.
+
+#### Entrevista 5 - Provedor
+
+**Entrevistador:** Anderson Gonza
+
+**Entrevistado:** Lizeth
+
+Edad: 26 años
+
+Rol: Coordinadora de programas de conservación en una ONG ambiental en Tarapoto.
+
+Tipo: Organización sin fines de lucro
+
+Duracion: 3:47
+
+[**Link de la entrevista**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120836_upc_edu_pe/EUwfonQnWXVLoY9hKMP6mxMBNzYCQ68ym8faLh5DOd50xA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Z8aIda)
+
+<div align="center">
+  <img src="./img/Lizeth.PNG" alt="img_entrevista" width="100%" />
+</div>
+
+#### Resumen de la entrevista
+
+Lizet coordina voluntariados de conservación en Tarapoto a través de una ONG. Trabaja duro para acercar a jóvenes a causas ambientales reales, pero a veces le cuesta transmitir el valor de estas experiencias. Sueña con una red que priorice proyectos pequeños con impacto genuino.
+
+#### Entrevista 6 - Provedor
+
+**Entrevistador:** Anderson Gonza
+
+**Entrevistado:** Luis Quispe
+
+Edad: 25 años
+
+Rol: Líder joven de una comunidad que ofrece caminatas con guías locales en Cusco.
+
+Tipo: Comunidad rural
+
+Duracion: 2:42
+
+[**Link de la entrevista**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120836_upc_edu_pe/EUdLuGiA06VDpBGteTFbhyIB_9ZJuZgivAOjZQ8Jj0vthA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6TbLRD)
+
+<div align="center">
+  <img src="./img/Luis.PNG" alt="img_entrevista" width="100%" />
+</div>
+
+#### Resumen de la entrevista
+
+Luis lidera una comunidad en Cusco que ofrece caminatas ancestrales y talleres culturales. Su gran reto es competir con agencias grandes y hacerse visible online. Usa Instagram y WhatsApp, y quisiera que se reconozca más el valor real de las experiencias comunitarias.
+
 ### 2.2.3. Análisis de entrevistas
+
+### Segmento: Turistas Jóvenes
+
+#### Perfil General:
+
+Edad: 20 a 23 años
+
+Residencia: Lima, Perú
+
+Ocupación: Estudiantes universitarios y profesionales jóvenes
+
+Modalidad de viaje: Viajan solos o en grupos de amigos
+
+Motivaciones de viaje: Búsqueda de experiencias auténticas, conexión con la naturaleza y aprendizaje cultural​
+
+#### Características Comunes:
+
+Conciencia ambiental: Muestran preocupación por el impacto ambiental y social de sus viajes.
+
+Participación en turismo sostenible: El 100% ha participado en actividades de turismo sostenible o comunitario.
+
+Canales de planificación: Todos utilizan redes sociales y plataformas digitales para planificar sus viajes.
+
+Frustraciones comunes: El 100% expresa dificultades para identificar experiencias verdaderamente sostenibles y evitar el "greenwashing"(publicidad engañosa).
+
+### Segmento: Proveedores de Turismo Sostenible
+
+#### Perfil General:
+
+Edad: 25 a 30 años
+
+Ubicación: Regiones como Cusco, Oxapampa y Tarapoto
+
+Tipo de organización: Comunidad rural, emprendimiento ecológico privado y ONG ambiental
+
+Roles: Líder comunitario, propietario de ecohostal y coordinador de programas de conservación​
+
+#### Características Comunes:
+
+Oferta de servicios: El 100% ofrece experiencias auténticas que incluyen actividades culturales, educativas y de conservación.
+
+Motivación: Todos están motivados por la preservación cultural y ambiental, así como por el desarrollo sostenible de sus comunidades.
+
+Canales de promoción: Todos utilizan plataformas digitales como Instagram, Airbnb y Booking para promocionar sus servicios.
+
+Desafíos comunes: El 100% enfrenta dificultades para competir con grandes operadores turísticos y lograr visibilidad en plataformas digitales.
 
 ## <a name="need-finding"></a> 2.3. Needfinding
 
@@ -231,18 +589,16 @@ Con el propósito de desarrollar una app que satisfaga las necesidades particula
 Para esta sección se han creado personajes ficticios, cada uno diseñado para representar a un segmento específico de usuarios. La información utilizada para desarrollar estos "User personas" proviene de entrevistas previas realizadas a cada segmento objetivo. Estas entrevistas tenían como objetivo comprender mejor a las personas a las que se dirige la aplicación. Se consideraron datos demográficos, metas, motivaciones, frustraciones, marcas relacionadas con el tema de la aplicación, canales digitales más utilizados, entre otros. La creación de esta sección se llevó a cabo utilizando la plataforma UXPressia.
 
 - **Segmento objetivo: Turista responsable**
-  
+
 ![User Persona: Maria Fernandez](images/Maria.png)
 
 - **Segmento objetivo: Proveedor turístico sostenible**
-  
-![User Persona: Pedro Rios](images/Pedro-Rios.png)
 
+![User Persona: Pedro Rios](images/Pedro-Rios.png)
 
 ### <a name="user-task-matrix"></a> 2.3.2. User Task Matrix
 
 En esta sección se presenta el User Task Matrix, una herramienta centrada en nuestros dos segmentos objetivos principales: el Turista Responsable y el Proveedor Turístico Sostenible. Esta matriz permite identificar y comparar las tareas clave que cada usuario realiza o espera realizar en la plataforma.
-
 
 <table border="1" cellspacing="0" cellpadding="8">
   <tr>
@@ -307,52 +663,47 @@ En esta sección se presenta el User Task Matrix, una herramienta centrada en nu
   </tr>
 </table>
 
-
-
 Esta clasificación facilita la priorización de características durante la construcción del Product Backlog, asegurando que se enfoquen primero las funcionalidades más relevantes para cada tipo de usuario. Además, el análisis comparativo permite visualizar las similitudes, diferencias, y oportunidades entre ambos perfiles.
 
 ### <a name="user-journey-mapping"></a> 2.3.3. User Journey Mapping
 
 En esta sección, se describen en detalle los User Journey Mapping para dos perfiles distintos de usuarios de la plataforma de turismo responsable: los Turistas Ocasionales y los Turistas Frecuentes. Estos mapas proporcionan una visión integral del recorrido que cada tipo de usuario realiza dentro del sistema, desde el primer contacto con la plataforma hasta su uso habitual y su interacción continua con las funcionalidades ofrecidas. Se destacan las etapas clave, las emociones y necesidades específicas de cada usuario, para asegurar una comprensión clara de su experiencia global.
 
-*Para Turista Responsable* 
+_Para Turista Responsable_
+
 - El recorrido de Lucía comienza motivado por su interés en descubrir experiencias sostenibles, auténticas y respetuosas con el entorno local. Su primer contacto con la plataforma suele darse a través de búsquedas en Google, recomendaciones de amigos o redes sociales.
 
 - Una vez en la plataforma, explora experiencias disponibles, filtra por destino e impacto ambiental, y se registra para poder reservar. Lucía valora una navegación clara y confiable, con información transparente sobre sostenibilidad, seguridad y beneficios locales.
-  
 - Tras reservar y vivir la experiencia, suele dejar una reseña, evaluar al proveedor y, si su experiencia fue positiva, volver a utilizar la plataforma en futuros viajes. También le interesa guardar tours y recibir recomendaciones personalizadas según sus intereses.
 
-*Para Proveedor Turístico Sostenible*
+_Para Proveedor Turístico Sostenible_
+
 - El viaje de Pedro inicia cuando busca una forma de dar visibilidad a sus experiencias locales sin intermediarios tradicionales. Descubre la plataforma a través de un correo de invitación, recomendación de otro proveedor o una publicación en redes profesionales.
-  
 - Se registra y configura su perfil de proveedor. Publica sus experiencias detallando impacto social, logístico y ambiental. Necesita un panel sencillo para subir fotos, definir precios y gestionar reservas.
-  
 - Una vez que los turistas comienzan a reservar, Pedro gestiona la disponibilidad, responde consultas y organiza la logística. Después del tour, revisa las reseñas y ajusta su oferta según los comentarios. Busca construir una reputación confiable, ya que esto influye directamente en su visibilidad dentro de la plataforma.
 
 Aunque tienen objetivos distintos, ambos comparten una motivación común: participar activamente en un turismo más consciente, auténtico y sostenible. Sus recorridos reflejan roles complementarios dentro del ecosistema de la plataforma.
 
+- #### _Turista Responsable_
 
-- #### *Turista Responsable*
-| Etapa                         | Acción del usuario (Turista ocasional)       | Emoción         | Canal                       | Oportunidad de mejora                           |
-|------------------------------|----------------------------------------------|-----------------|-----------------------------|------------------------------------------------|
-| Descubrimiento               | Encuentra la plataforma por redes o buscador | Curiosidad      | Web, redes sociales         | Mejorar posicionamiento SEO y contenido visual |
-| Registro                     | Se registra para ver detalles de un tour     | Interés         | Página web                  | Simplificar el proceso de registro             |
-| Exploración                  | Navega tours sin un objetivo claro           | Confusión       | Navegador                   | Sugerencias iniciales según localización       |
-| Reserva                      | Selecciona y reserva un tour                 | Satisfacción    | Página de reservas          | Ofrecer asistencia en tiempo real              |
-| Participación en el tour     | Asiste a la actividad                        | Entusiasmo      | Presencial                  | Recordatorios y checklist antes del tour       |
-| Post-experiencia             | Puede dejar una reseña o no                  | Desconexión     | Email, web                  | Incentivar feedback con recompensas            |
+  | Etapa                    | Acción del usuario (Turista ocasional)       | Emoción      | Canal               | Oportunidad de mejora                          |
+  | ------------------------ | -------------------------------------------- | ------------ | ------------------- | ---------------------------------------------- |
+  | Descubrimiento           | Encuentra la plataforma por redes o buscador | Curiosidad   | Web, redes sociales | Mejorar posicionamiento SEO y contenido visual |
+  | Registro                 | Se registra para ver detalles de un tour     | Interés      | Página web          | Simplificar el proceso de registro             |
+  | Exploración              | Navega tours sin un objetivo claro           | Confusión    | Navegador           | Sugerencias iniciales según localización       |
+  | Reserva                  | Selecciona y reserva un tour                 | Satisfacción | Página de reservas  | Ofrecer asistencia en tiempo real              |
+  | Participación en el tour | Asiste a la actividad                        | Entusiasmo   | Presencial          | Recordatorios y checklist antes del tour       |
+  | Post-experiencia         | Puede dejar una reseña o no                  | Desconexión  | Email, web          | Incentivar feedback con recompensas            |
 
-
-- #### *Proveedor Turístico Sostenible*
-| Etapa                         | Acción del usuario (Turista frecuente)       | Emoción         | Canal                       | Oportunidad de mejora                           |
-|------------------------------|----------------------------------------------|-----------------|-----------------------------|------------------------------------------------|
-| Descubrimiento               | Conoce la plataforma a través de otros guías, redes o invitaciones    | EntusCuriosidad, escepticismoasmo      | Facebook, WhatsApp, web                   | Campañas de captación con testimonios de otros proveedores                   |
-| Registro                     | Se registra como proveedor, completa perfil y verifica identidad                                | Motivación, dudas técnicas       | Formulario, email de verificación                    | Proceso guiado, soporte en línea, validación rápida            |
-| Publicación                  | Crea y publica una experiencia con fotos, texto y precio       | Creatividad, expectativa       | Dashboard proveedor             | Asistente de publicación, plantillas prediseñadas     |
-| Gestión                      | Recibe reservas, responde dudas, organiza logística del tour                     | Organización, estrés  | Panel de reservas, mensajería                 | Sistema de alertas, app móvil para gestión rápida              |
-| Entrega del tour     | Da la experiencia presencialmente                    | Entusiasmo      | WhatsApp, en persona                  | Confirmación previa, herramientas de check-in         |
-| Retención          | Publica nuevas experiencias, busca subir su reputación           | Motivación, compromiso      | Email, plataforma           | Enviar reportes de desempeño, sugerencias automáticas            |
-
+- #### _Proveedor Turístico Sostenible_
+  | Etapa            | Acción del usuario (Turista frecuente)                             | Emoción                           | Canal                             | Oportunidad de mejora                                      |
+  | ---------------- | ------------------------------------------------------------------ | --------------------------------- | --------------------------------- | ---------------------------------------------------------- |
+  | Descubrimiento   | Conoce la plataforma a través de otros guías, redes o invitaciones | EntusCuriosidad, escepticismoasmo | Facebook, WhatsApp, web           | Campañas de captación con testimonios de otros proveedores |
+  | Registro         | Se registra como proveedor, completa perfil y verifica identidad   | Motivación, dudas técnicas        | Formulario, email de verificación | Proceso guiado, soporte en línea, validación rápida        |
+  | Publicación      | Crea y publica una experiencia con fotos, texto y precio           | Creatividad, expectativa          | Dashboard proveedor               | Asistente de publicación, plantillas prediseñadas          |
+  | Gestión          | Recibe reservas, responde dudas, organiza logística del tour       | Organización, estrés              | Panel de reservas, mensajería     | Sistema de alertas, app móvil para gestión rápida          |
+  | Entrega del tour | Da la experiencia presencialmente                                  | Entusiasmo                        | WhatsApp, en persona              | Confirmación previa, herramientas de check-in              |
+  | Retención        | Publica nuevas experiencias, busca subir su reputación             | Motivación, compromiso            | Email, plataforma                 | Enviar reportes de desempeño, sugerencias automáticas      |
 
 ### <a name="empathy-mapping"></a> 2.3.4. Empathy Mapping
 
@@ -383,28 +734,26 @@ Este ejercicio permite empatizar con sus contextos reales, facilitando el diseñ
 | **Ideas/Opps**       | Tutorial interactivo                 | Asistente para redacción atractiva   | App móvil para gestión en tiempo real | Confirmación de llegada del turista     | Tips automáticos para mejorar perfil      |
 
 ### <a name="as-is"></a> 2.3.5. As-is Scenario Mapping
+
 En esta sección se presenta el As-Is Scenario Mapping para cada uno de los segmentos objetivos identificados: Turista Responsable y Proveedor Turístico Sostenible. Este análisis tiene como objetivo visualizar cómo estos usuarios interactúan actualmente con plataformas digitales al planificar, ofrecer o reservar experiencias de viaje, y así detectar oportunidades de mejora, frustraciones comunes y necesidades no cubiertas.
 
 Para este mapeo se han considerado cinco fases clave del recorrido del usuario: Descubrimiento, Evaluación, Reserva, Experiencia y Seguimiento. En cada etapa se identifican acciones típicas, aspectos positivos, dificultades experimentadas y oportunidades que pueden guiar el diseño de funcionalidades relevantes para nuestra plataforma de turismo responsable.
 
 El análisis se basa en entrevistas y observaciones realizadas durante la fase de investigación, complementadas con supuestos validados por referencias externas, permitiendo entender el contexto actual y orientar decisiones estratégicas centradas en el usuario.
 
+_As-is Scenario mapping: Turista Responsable_
 
-*As-is Scenario mapping: Turista Responsable*
-  
-  ![As-Is: frecuentes](images/Scenario-Mapping1.png)
+![As-Is: frecuentes](images/Scenario-Mapping1.png)
 
-*As-is Scenario mapping: Proveedor Turístico Sostenible*
-  
-  ![As-Is: frecuentes](images/Scenario-Mapping2.png)
+_As-is Scenario mapping: Proveedor Turístico Sostenible_
 
-
+![As-Is: frecuentes](images/Scenario-Mapping2.png)
 
 ### Capítulo III: Requirements Specification
 
 3.1. To-Be Scenario Mapping.
 
-En esta sección se presenta el *To-Be Scenario Mapping* para cada uno de los segmentos de usuarios identificados: **Turistas Responsables** y **Proveedores Turísticos Sostenibles**. Este análisis tiene como objetivo visualizar cómo se transformaría la experiencia de estos usuarios al utilizar **EcoTrip**, una plataforma digital enfocada en la planificación y reserva de experiencias de viaje sostenibles.
+En esta sección se presenta el _To-Be Scenario Mapping_ para cada uno de los segmentos de usuarios identificados: **Turistas Responsables** y **Proveedores Turísticos Sostenibles**. Este análisis tiene como objetivo visualizar cómo se transformaría la experiencia de estos usuarios al utilizar **EcoTrip**, una plataforma digital enfocada en la planificación y reserva de experiencias de viaje sostenibles.
 
 A través del uso de EcoTrip, se busca mejorar los puntos de dolor detectados en el As-Is Scenario Mapping, ofreciendo una experiencia más intuitiva, informada y alineada con valores de responsabilidad ambiental y sostenibilidad. El mapeo considera los cambios clave que esta nueva solución podría aportar en términos de comportamiento, pensamiento y emociones de los usuarios.
 
@@ -417,13 +766,13 @@ El proceso de elaboración del To-Be Scenario Mapping siguió las siguientes eta
 
 Las fases consideradas en este análisis son: **Descubrimiento, Evaluación, Reserva, Experiencia y Seguimiento.**
 
-
 #### To-Be Scenario Mapping – Turistas Responsables
+
 ![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/tobe1.jpg?alt=media&token=16534694-15c3-4cf9-aedd-6f7f3e9d7fe4)
 
 #### To-Be Scenario Mapping – Proveedores Turísticos Sostenibles
-![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/tobe2.jpg?alt=media&token=da5d1a75-1f37-4e5e-abe0-e0b945fdbc1c)
 
+![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/tobe2.jpg?alt=media&token=da5d1a75-1f37-4e5e-abe0-e0b945fdbc1c)
 
 3.2. User Stories.
 
@@ -431,37 +780,37 @@ En esta sección se presentan las User Stories desarrolladas para el proyecto Ec
 
 Cada historia refleja una necesidad concreta de los usuarios y está asociada a una funcionalidad clave del sistema. Asimismo, se incluyen los criterios de aceptación formulados en formato Gherkin, con tres escenarios por historia, lo cual permite validar de manera precisa y completa si una funcionalidad cumple con los requisitos del usuario. Esta estructura facilita la planificación ágil del desarrollo y asegura el alineamiento entre el equipo de diseño, desarrollo y las expectativas de los usuarios.
 
-Epics: 
+Epics:
 
-| **Epic ID** | **Título**                 | **Descripción**                                                                                                                                       | **Segmento Objetivo**                       |
-|-------------|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| EP-01       | Explorar experiencias     | Como turista responsable, quiero ver experiencias sostenibles para saber qué ofrece EcoTrip.                                                         | Turistas responsables                      |
-| EP-02       | Registro de proveedores   | Como proveedor turístico sostenible, quiero registrarme para ofrecer mis servicios turísticos en la plataforma.                                      | Proveedores turísticos sostenibles         |
-| EP-03       | Crear plan                | Como turista responsable, quiero crear mi propio plan de viaje con actividades y hospedajes sostenibles.                                             | Turistas responsables                      |
-| EP-04       | Conexión con guías        | Como turista responsable, quiero contactar guías que hablen mi idioma para enriquecer mi experiencia.                                                | Turistas responsables                      |
-| EP-05       | Reservas y pagos          | Como turista responsable, quiero reservar experiencias y pagar fácilmente para confirmar mi participación.                                           | Turistas responsables                      |
-| EP-06       | Página informativa        | Como turista responsable, quiero saber qué es EcoTrip y qué servicios ofrece para decidir si usar la plataforma.                                     | Turistas responsables                      |
-| EP-07       | Gestión de favoritos      | Como turista responsable, quiero poder marcar experiencias como favoritas para consultarlas después.                                                | Turistas responsables                      |
-| EP-08       | Validación de formularios | Como proveedor turístico sostenible, quiero que todos los formularios tengan validación para evitar errores en el registro o actualizaciones.        | Proveedores turísticos sostenibles         |
-| EP-09       | Notificaciones visuales   | Como usuario (turista o proveedor), quiero recibir mensajes visuales para saber qué acciones fueron exitosas o fallidas.                            | Ambos segmentos                            |
-| EP-10       | Personalización del perfil| Como usuario (turista o proveedor), quiero personalizar mi perfil con datos e intereses para mejorar mi experiencia en la plataforma.                | Ambos segmentos                            |
-| EP-11       | Accesibilidad y UX        | Como usuario (turista o proveedor), quiero que el sitio sea accesible y cómodo para navegar en cualquier dispositivo.                               | Ambos segmentos    
+| **Epic ID** | **Título**                 | **Descripción**                                                                                                                               | **Segmento Objetivo**              |
+| ----------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| EP-01       | Explorar experiencias      | Como turista responsable, quiero ver experiencias sostenibles para saber qué ofrece EcoTrip.                                                  | Turistas responsables              |
+| EP-02       | Registro de proveedores    | Como proveedor turístico sostenible, quiero registrarme para ofrecer mis servicios turísticos en la plataforma.                               | Proveedores turísticos sostenibles |
+| EP-03       | Crear plan                 | Como turista responsable, quiero crear mi propio plan de viaje con actividades y hospedajes sostenibles.                                      | Turistas responsables              |
+| EP-04       | Conexión con guías         | Como turista responsable, quiero contactar guías que hablen mi idioma para enriquecer mi experiencia.                                         | Turistas responsables              |
+| EP-05       | Reservas y pagos           | Como turista responsable, quiero reservar experiencias y pagar fácilmente para confirmar mi participación.                                    | Turistas responsables              |
+| EP-06       | Página informativa         | Como turista responsable, quiero saber qué es EcoTrip y qué servicios ofrece para decidir si usar la plataforma.                              | Turistas responsables              |
+| EP-07       | Gestión de favoritos       | Como turista responsable, quiero poder marcar experiencias como favoritas para consultarlas después.                                          | Turistas responsables              |
+| EP-08       | Validación de formularios  | Como proveedor turístico sostenible, quiero que todos los formularios tengan validación para evitar errores en el registro o actualizaciones. | Proveedores turísticos sostenibles |
+| EP-09       | Notificaciones visuales    | Como usuario (turista o proveedor), quiero recibir mensajes visuales para saber qué acciones fueron exitosas o fallidas.                      | Ambos segmentos                    |
+| EP-10       | Personalización del perfil | Como usuario (turista o proveedor), quiero personalizar mi perfil con datos e intereses para mejorar mi experiencia en la plataforma.         | Ambos segmentos                    |
+| EP-11       | Accesibilidad y UX         | Como usuario (turista o proveedor), quiero que el sitio sea accesible y cómodo para navegar en cualquier dispositivo.                         | Ambos segmentos                    |
 
-User Stories: 
+User Stories:
 
-| **User Story ID** | **Título** | **Descripción (Segmento Objetivo)** | **Criterios de Aceptación (Gherkin)** | **Relacionado con (Epic ID)** |
-|-------------------|------------|-------------------------------------|----------------------------------------|-------------------------------|
-| US-01 | Filtrar experiencias | Como turista responsable, quiero filtrar por tipo de experiencia para encontrar lo que me interesa. | **Escenario 1:**<br>**Given** que estoy viendo las experiencias<br>**When** selecciono “Voluntariado”<br>**Then** solo se muestran experiencias de voluntariado.<br>**Escenario 2:**<br>**Given** que ya he filtrado<br>**When** regreso a la lista<br>**Then** el filtro se mantiene aplicado.<br>**Escenario 3:**<br>**Given** que selecciono varios tipos<br>**When** aplico los filtros<br>**Then** se actualiza la lista combinada. | EP-01 |
-| US-02 | Aprobación de proveedor | Como administrador, quiero revisar los datos del proveedor turístico sostenible para aprobar o rechazar su ingreso. | **Escenario 1:**<br>**Given** que hay una solicitud nueva<br>**When** reviso los documentos<br>**Then** puedo aprobarla.<br>**Escenario 2:**<br>**Given** que detecto errores<br>**When** rechazo la solicitud<br>**Then** puedo escribir una razón y notificar.<br>**Escenario 3:**<br>**Given** que apruebo<br>**When** finalizo el proceso<br>**Then** se actualiza a “Proveedor Activo”. | EP-02 |
-| US-03 | Recomendaciones para itinerario | Como turista responsable, quiero recibir sugerencias basadas en mis gustos. | **Escenario 1:**<br>**Given** que completé mi perfil<br>**When** ingreso a recomendaciones<br>**Then** veo actividades sugeridas.<br>**Escenario 2:**<br>**Given** que no me gustan<br>**When** marco “No me interesa”<br>**Then** se actualiza la lista.<br>**Escenario 3:**<br>**Given** que acepto<br>**When** agrego al itinerario<br>**Then** aparece en mi plan. | EP-03 |
-| US-04 | Reservar guía específico | Como turista responsable, quiero reservar a un guía específico que hable mi idioma. | **Escenario 1:**<br>**Given** que encontré un guía<br>**When** elijo una fecha<br>**Then** hago la reserva.<br>**Escenario 2:**<br>**Given** que reservé<br>**When** reviso mi perfil<br>**Then** veo el historial.<br>**Escenario 3:**<br>**Given** que el guía confirma<br>**When** recibo el correo<br>**Then** veo detalles del encuentro. | EP-04 |
-| US-05 | Cancelar reserva | Como turista responsable, quiero cancelar una reserva si no puedo asistir. | **Escenario 1:**<br>**Given** que tengo una reserva<br>**When** accedo a ella<br>**Then** veo la opción cancelar.<br>**Escenario 2:**<br>**Given** que cancelo a tiempo<br>**When** aplico la acción<br>**Then** recibo reembolso.<br>**Escenario 3:**<br>**Given** que se cancela<br>**When** reviso correo<br>**Then** veo confirmación. | EP-05 |
-| US-06 | Ver testimonios | Como turista responsable, quiero leer opiniones de otros para confiar en la plataforma. | **Escenario 1:**<br>**Given** que entro a testimonios<br>**When** veo las opiniones<br>**Then** muestran nombre, experiencia y calificación.<br>**Escenario 2:**<br>**Given** que busco algo específico<br>**When** uso filtro<br>**Then** veo testimonios relevantes.<br>**Escenario 3:**<br>**Given** que leo un testimonio<br>**When** me parece útil<br>**Then** puedo marcarlo como “útil”. | EP-06 |
-| US-07 | Marcar experiencia como favorita | Como turista responsable, quiero marcar experiencias como favoritas para guardarlas y verlas luego. | **Escenario 1:**<br>**Given** que veo una experiencia<br>**When** hago clic en corazón<br>**Then** se guarda como favorita.<br>**Escenario 2:**<br>**Given** que estoy en mi perfil<br>**When** entro a favoritos<br>**Then** veo lista guardada.<br>**Escenario 3:**<br>**Given** que quito una experiencia<br>**When** hago clic otra vez<br>**Then** se elimina de favoritos. | EP-07 |
-| US-08 | Validar campos obligatorios | Como proveedor turístico sostenible, quiero validaciones en los formularios para no enviar datos incompletos. | **Escenario 1:**<br>**Given** que lleno un formulario<br>**When** dejo un campo vacío<br>**Then** veo error.<br>**Escenario 2:**<br>**Given** que pongo un correo inválido<br>**When** intento enviar<br>**Then** veo advertencia.<br>**Escenario 3:**<br>**Given** que corrijo<br>**When** vuelvo a intentar<br>**Then** se envía correctamente. | EP-08 |
-| US-09 | Mostrar alertas visuales | Como usuario (turista o proveedor), quiero ver alertas (toasts) al realizar acciones importantes. | **Escenario 1:**<br>**Given** que agrego experiencia<br>**When** confirmo acción<br>**Then** aparece toast de éxito.<br>**Escenario 2:**<br>**Given** que cancelo reserva<br>**When** confirmo cancelación<br>**Then** veo mensaje de confirmación.<br>**Escenario 3:**<br>**Given** que ocurre un error<br>**When** realizo acción<br>**Then** veo mensaje de error. | EP-09 |
-| US-10 | Editar foto de perfil | Como usuario (turista o proveedor), quiero subir o cambiar mi foto de perfil. | **Escenario 1:**<br>**Given** que estoy en perfil<br>**When** hago clic en “Cambiar foto”<br>**Then** selecciono imagen.<br>**Escenario 2:**<br>**Given** que subo imagen válida<br>**When** guardo<br>**Then** se actualiza foto.<br>**Escenario 3:**<br>**Given** que intento archivo no permitido<br>**When** lo subo<br>**Then** veo error. | EP-10 |
-| US-11 | Activar modo oscuro | Como usuario (turista o proveedor), quiero activar modo oscuro para una experiencia visual cómoda. | **Escenario 1:**<br>**Given** que estoy en cualquier página<br>**When** activo switch modo oscuro<br>**Then** interfaz cambia.<br>**Escenario 2:**<br>**Given** que cierro sesión<br>**When** vuelvo a ingresar<br>**Then** modo oscuro sigue activo.<br>**Escenario 3:**<br>**Given** que desactivo modo oscuro<br>**When** hago clic en switch<br>**Then** vuelve al modo claro. | EP-11 |
+| **User Story ID** | **Título**                       | **Descripción (Segmento Objetivo)**                                                                                 | **Criterios de Aceptación (Gherkin)**                                                                                                                                                                                                                                                                                                                                                                                                    | **Relacionado con (Epic ID)** |
+| ----------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| US-01             | Filtrar experiencias             | Como turista responsable, quiero filtrar por tipo de experiencia para encontrar lo que me interesa.                 | **Escenario 1:**<br>**Given** que estoy viendo las experiencias<br>**When** selecciono “Voluntariado”<br>**Then** solo se muestran experiencias de voluntariado.<br>**Escenario 2:**<br>**Given** que ya he filtrado<br>**When** regreso a la lista<br>**Then** el filtro se mantiene aplicado.<br>**Escenario 3:**<br>**Given** que selecciono varios tipos<br>**When** aplico los filtros<br>**Then** se actualiza la lista combinada. | EP-01                         |
+| US-02             | Aprobación de proveedor          | Como administrador, quiero revisar los datos del proveedor turístico sostenible para aprobar o rechazar su ingreso. | **Escenario 1:**<br>**Given** que hay una solicitud nueva<br>**When** reviso los documentos<br>**Then** puedo aprobarla.<br>**Escenario 2:**<br>**Given** que detecto errores<br>**When** rechazo la solicitud<br>**Then** puedo escribir una razón y notificar.<br>**Escenario 3:**<br>**Given** que apruebo<br>**When** finalizo el proceso<br>**Then** se actualiza a “Proveedor Activo”.                                             | EP-02                         |
+| US-03             | Recomendaciones para itinerario  | Como turista responsable, quiero recibir sugerencias basadas en mis gustos.                                         | **Escenario 1:**<br>**Given** que completé mi perfil<br>**When** ingreso a recomendaciones<br>**Then** veo actividades sugeridas.<br>**Escenario 2:**<br>**Given** que no me gustan<br>**When** marco “No me interesa”<br>**Then** se actualiza la lista.<br>**Escenario 3:**<br>**Given** que acepto<br>**When** agrego al itinerario<br>**Then** aparece en mi plan.                                                                   | EP-03                         |
+| US-04             | Reservar guía específico         | Como turista responsable, quiero reservar a un guía específico que hable mi idioma.                                 | **Escenario 1:**<br>**Given** que encontré un guía<br>**When** elijo una fecha<br>**Then** hago la reserva.<br>**Escenario 2:**<br>**Given** que reservé<br>**When** reviso mi perfil<br>**Then** veo el historial.<br>**Escenario 3:**<br>**Given** que el guía confirma<br>**When** recibo el correo<br>**Then** veo detalles del encuentro.                                                                                           | EP-04                         |
+| US-05             | Cancelar reserva                 | Como turista responsable, quiero cancelar una reserva si no puedo asistir.                                          | **Escenario 1:**<br>**Given** que tengo una reserva<br>**When** accedo a ella<br>**Then** veo la opción cancelar.<br>**Escenario 2:**<br>**Given** que cancelo a tiempo<br>**When** aplico la acción<br>**Then** recibo reembolso.<br>**Escenario 3:**<br>**Given** que se cancela<br>**When** reviso correo<br>**Then** veo confirmación.                                                                                               | EP-05                         |
+| US-06             | Ver testimonios                  | Como turista responsable, quiero leer opiniones de otros para confiar en la plataforma.                             | **Escenario 1:**<br>**Given** que entro a testimonios<br>**When** veo las opiniones<br>**Then** muestran nombre, experiencia y calificación.<br>**Escenario 2:**<br>**Given** que busco algo específico<br>**When** uso filtro<br>**Then** veo testimonios relevantes.<br>**Escenario 3:**<br>**Given** que leo un testimonio<br>**When** me parece útil<br>**Then** puedo marcarlo como “útil”.                                         | EP-06                         |
+| US-07             | Marcar experiencia como favorita | Como turista responsable, quiero marcar experiencias como favoritas para guardarlas y verlas luego.                 | **Escenario 1:**<br>**Given** que veo una experiencia<br>**When** hago clic en corazón<br>**Then** se guarda como favorita.<br>**Escenario 2:**<br>**Given** que estoy en mi perfil<br>**When** entro a favoritos<br>**Then** veo lista guardada.<br>**Escenario 3:**<br>**Given** que quito una experiencia<br>**When** hago clic otra vez<br>**Then** se elimina de favoritos.                                                         | EP-07                         |
+| US-08             | Validar campos obligatorios      | Como proveedor turístico sostenible, quiero validaciones en los formularios para no enviar datos incompletos.       | **Escenario 1:**<br>**Given** que lleno un formulario<br>**When** dejo un campo vacío<br>**Then** veo error.<br>**Escenario 2:**<br>**Given** que pongo un correo inválido<br>**When** intento enviar<br>**Then** veo advertencia.<br>**Escenario 3:**<br>**Given** que corrijo<br>**When** vuelvo a intentar<br>**Then** se envía correctamente.                                                                                        | EP-08                         |
+| US-09             | Mostrar alertas visuales         | Como usuario (turista o proveedor), quiero ver alertas (toasts) al realizar acciones importantes.                   | **Escenario 1:**<br>**Given** que agrego experiencia<br>**When** confirmo acción<br>**Then** aparece toast de éxito.<br>**Escenario 2:**<br>**Given** que cancelo reserva<br>**When** confirmo cancelación<br>**Then** veo mensaje de confirmación.<br>**Escenario 3:**<br>**Given** que ocurre un error<br>**When** realizo acción<br>**Then** veo mensaje de error.                                                                    | EP-09                         |
+| US-10             | Editar foto de perfil            | Como usuario (turista o proveedor), quiero subir o cambiar mi foto de perfil.                                       | **Escenario 1:**<br>**Given** que estoy en perfil<br>**When** hago clic en “Cambiar foto”<br>**Then** selecciono imagen.<br>**Escenario 2:**<br>**Given** que subo imagen válida<br>**When** guardo<br>**Then** se actualiza foto.<br>**Escenario 3:**<br>**Given** que intento archivo no permitido<br>**When** lo subo<br>**Then** veo error.                                                                                          | EP-10                         |
+| US-11             | Activar modo oscuro              | Como usuario (turista o proveedor), quiero activar modo oscuro para una experiencia visual cómoda.                  | **Escenario 1:**<br>**Given** que estoy en cualquier página<br>**When** activo switch modo oscuro<br>**Then** interfaz cambia.<br>**Escenario 2:**<br>**Given** que cierro sesión<br>**When** vuelvo a ingresar<br>**Then** modo oscuro sigue activo.<br>**Escenario 3:**<br>**Given** que desactivo modo oscuro<br>**When** hago clic en switch<br>**Then** vuelve al modo claro.                                                       | EP-11                         |
 
 3.3. Impact Mapping.
 
@@ -951,18 +1300,15 @@ La clase **Review** permite a los usuarios dejar comentarios y calificaciones so
 
 #### Atributos:
 
-
-
 - `environmentalScore: int` – Calificación de sostenibilidad de la experiencia (de 1 a 5).
 - `culturalScore: int` – Calificación del impacto cultural de la experiencia.
 - `comment: String` – Comentario escrito por el usuario sobre la experiencia.
-
 
 #### Métodos:
 
 - `calculateFinalScore()` – Calcula la calificación final promediando todas las puntuaciones recibidas (sostenibilidad, impacto cultural, etc.).
 
-4.8. Database Design.
+  4.8. Database Design.
 
   4.8.1. Database Diagram.
 
@@ -994,8 +1340,6 @@ La clase **Review** permite a los usuarios dejar comentarios y calificaciones so
 5.4. Video About-the-Product.
 
 ### Conclusiones
-
-
 
 ### Conclusiones y recomendaciones.
 
