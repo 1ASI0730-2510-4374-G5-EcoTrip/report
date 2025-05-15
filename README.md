@@ -993,12 +993,24 @@ La clase **Review** permite a los usuarios dejar comentarios y calificaciones so
 | Team Member (Last Name, First Name)  | Github Username | Diseño, wireframes landing Leader (L), Collaborator (C) | Desarrollo estatico HTML, CSS, JS Leader (L), Collaborator (C) | Desplegar el servicio Leader (L), Collaborator (C) | 
 | ------------------------------------ | --------------- | ------------------------------------------ | ---------------- | -------------- | 
 | Romina Alejanda Tuesta Marin  | Romimi1  | (L) | (L) | (L) | 
-| Team Member (Last Name, First Name)  |  |  (C) | (C) | (C) | 
-| Team Member (Last Name, First Name)  |  | (C) | (C)| (C) | 
-| Team Member (Last Name, First Name)  |  | (C) | (C) | (C) | 
-| Team Member (Last Name, First Name)  |  | (C) | (C) | (C) | 
+| Ramos Aguirre Aldair   | AldairRam |  (C) | (C) | (C) | 
+| Abraam Acosta Elera | abraam16 | (C) | (C)| (C) | 
+| Anderson Gonza Morales |  | (C) | (C) | (C) | 
+| Andy mio mejia |  | (C) | (C) | (C) | 
 
 5.4. Video About-the-Product.
+
+Evidencia de video:
+![Container Diagram](img/about-product.JPG)
+
+Video subido en Microsoft: 
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211706_upc_edu_pe/EZpWEEtTuZhKpUpVZv2FmVABS-T8DCENQTuWI8UTOirsGg
+
+Video subido a youtube: 
+
+https://youtu.be/P-pBcA5IrFQ
+
 
 ### Conclusiones
 
