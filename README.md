@@ -34,7 +34,7 @@
         <tbody>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">Tuesta Marin Romina</td>
-                <td style="border: 1px solid #ddd; padding: 8px;">Codigo</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">U202211706</td>
             </tr>
              <tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">Acosta Elera Abraam Bernabe</td>
@@ -75,7 +75,7 @@
     <tbody>
         <tr>
             <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta <br> rangos de audiencia.</td>
-            <td>Romina Tuesta <br> TB1: <br> TP1: <br><br>Abraam Acosta<br> TB1: Participé en el desarrollo de la startup como la elaboracion de los user stories y realicé aportes en la planificación. <br> TP1: Desarrollé mi parte correspondiente del frontend, construí mi apartado funcional y corregí errores en el documento final del reporte. <br><br>Andy Mio<br> TB1: <br> TP1: <br><br>AndersoGonza<br> TB1: <br> TP1: <br><br>Aldair Ramos<br> TB1: <br> TP1: <br></td>
+            <td>Romina Tuesta <br> TB1: Tuve en cuenta en esta ocasión los impactos y necesidades del usuario por medio del impact maping.  <br> TP1: Para el trabajo parcial, el diseño ha sido fundamental, wireframes, wireflows, etc. La landign fue hecha en base a el mock up y será de uso para el futuro desarrollo. <br><br>Abraam Acosta<br> TB1: Participé en el desarrollo de la startup como la elaboracion de los user stories y realicé aportes en la planificación. <br> TP1: Desarrollé mi parte correspondiente del frontend, construí mi apartado funcional y corregí errores en el documento final del reporte. <br><br>Andy Mio<br> TB1: <br> TP1: <br><br>AndersoGonza<br> TB1: <br> TP1: <br><br>Aldair Ramos<br> TB1: <br> TP1: <br></td>
             <td></td>
         </tr>
         <tr>
@@ -467,34 +467,33 @@ User Stories:
 
 #### Mapa de segmento turistas responsable:
 
-<img src= "image/imp.map_1ST.PNG">
+<img src= "img/imp-maria.png">
 
-<img src= "image/imp.map._2ST.PNG">
 
 #### Mapa de segmento proveedores turisticos ecologicos:
 
-<img src= "image/imp.map_3SP.PNG">
+<img src= "img/imp-pedro.png">
 
 3.4. Product Backlog.
 
-| ID      | Título                                         | Prioridad | Descripción                                                                                    |
+| ID      | Título                                         | Puntaje (2,3,5,8) | Descripción                                                                                    |
 | ------- | ---------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------- |
-| US-01   | Ver lista de experiencias sostenibles          | Alta      | Como turista ocasional quiero ver una lista de experiencias para explorar qué ofrece EcoTrip.  |
-| US-01.1 | Filtrar experiencias por tipo                  | Alta      | Como turista frecuente quiero filtrar experiencias por tipo para encontrar lo que me interesa. |
-| US-02   | Registro de proveedores                        | Alta      | Como proveedor quiero registrarme para ofrecer mis servicios turísticos sostenibles.           |
-| US-02.1 | Aprobación de proveedor                        | Alta      | Como administrador quiero revisar y aprobar solicitudes de proveedores.                        |
-| US-03   | Crear plan de viaje personalizado              | Media     | Como turista frecuente quiero armar mi propio itinerario con actividades y hospedajes.         |
-| US-03.1 | Sugerencias de itinerario basadas en intereses | Media     | Como turista ocasional quiero recibir sugerencias de actividades según mi perfil.              |
-| US-04   | Conexión con guías turísticos                  | Alta      | Como turista frecuente quiero contactar guías que hablen mi idioma.                            |
-| US-04.1 | Reservar guía específico                       | Media     | Como turista ocasional quiero poder reservar a un guía en específico.                          |
-| US-05   | Reservar y pagar experiencias                  | Alta      | Como turista frecuente quiero reservar y pagar actividades de manera fácil.                    |
-| US-05.1 | Cancelar reserva y recibir reembolso           | Media     | Como turista ocasional quiero cancelar mi reserva si no podré asistir.                         |
-| US-06   | Página informativa sobre EcoTrip               | Media     | Como visitante quiero saber qué es EcoTrip y qué servicios ofrece.                             |
-| US-06.1 | Ver testimonios de otros viajeros              | Baja      | Como visitante quiero leer opiniones para confiar en la plataforma.                            |
-| US-07   | Gestión del portafolio de proveedores          | Alta      | Como proveedor quiero agregar, editar o eliminar mis experiencias.                             |
-| US-08   | Mejorar visibilidad de proveedores             | Media     | Como proveedor quiero mostrar mis calificaciones y reseñas públicas.                           |
-| US-09   | Registro y validación fácil para proveedores   | Alta      | Como proveedor quiero un proceso de registro rápido y sencillo.                                |
-| US-10   | Recibir pagos seguros como proveedor           | Alta      | Como proveedor quiero recibir mis pagos de manera segura y poder ver mi historial.             |
+| US-01   | Ver lista de experiencias sostenibles          | 8    | Como turista ocasional quiero ver una lista de experiencias para explorar qué ofrece EcoTrip.  |
+| US-01.1 | Filtrar experiencias por tipo                  | 8      | Como turista frecuente quiero filtrar experiencias por tipo para encontrar lo que me interesa. |
+| US-02   | Registro de proveedores                        | 5      | Como proveedor quiero registrarme para ofrecer mis servicios turísticos sostenibles.           |
+| US-02.1 | Aprobación de proveedor                        | 5     | Como administrador quiero revisar y aprobar solicitudes de proveedores.                        |
+| US-03   | Crear plan de viaje personalizado              | 5    | Como turista frecuente quiero armar mi propio itinerario con actividades y hospedajes.         |
+| US-03.1 | Sugerencias de itinerario basadas en intereses | 5     | Como turista ocasional quiero recibir sugerencias de actividades según mi perfil.              |
+| US-04   | Conexión con guías turísticos                  | 8      | Como turista frecuente quiero contactar guías que hablen mi idioma.                            |
+| US-04.1 | Reservar guía específico                       | 3   | Como turista ocasional quiero poder reservar a un guía en específico.                          |
+| US-05   | Reservar y pagar experiencias                  | 5     | Como turista frecuente quiero reservar y pagar actividades de manera fácil.                    |
+| US-05.1 | Cancelar reserva y recibir reembolso           | 3     | Como turista ocasional quiero cancelar mi reserva si no podré asistir.                         |
+| US-06   | Página informativa sobre EcoTrip               | 3    | Como visitante quiero saber qué es EcoTrip y qué servicios ofrece.                             |
+| US-06.1 | Ver testimonios de otros viajeros              | 2      | Como visitante quiero leer opiniones para confiar en la plataforma.                            |
+| US-07   | Gestión del portafolio de proveedores          | 5     | Como proveedor quiero agregar, editar o eliminar mis experiencias.                             |
+| US-08   | Mejorar visibilidad de proveedores             | 8     | Como proveedor quiero mostrar mis calificaciones y reseñas públicas.                           |
+| US-09   | Registro y validación fácil para proveedores   | 5     | Como proveedor quiero un proceso de registro rápido y sencillo.                                |
+| US-10   | Recibir pagos seguros como proveedor           | 8     | Como proveedor quiero recibir mis pagos de manera segura y poder ver mi historial.             |
 
 ### Capítulo IV: Product Design
 
@@ -990,6 +989,14 @@ La clase **Review** permite a los usuarios dejar comentarios y calificaciones so
 | **Sum of Story Points**             | 5                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 5.2.X.2. Aspect Leaders and Collaborators.
+
+| Team Member (Last Name, First Name)  | Github Username | Diseño, wireframes landing Leader (L), Collaborator (C) | Desarrollo estatico HTML, CSS, JS Leader (L), Collaborator (C) | Desplegar el servicio Leader (L), Collaborator (C) | 
+| ------------------------------------ | --------------- | ------------------------------------------ | ---------------- | -------------- | 
+| Romina Alejanda Tuesta Marin  | Romimi1  | (L) | (L) | (L) | 
+| Team Member (Last Name, First Name)  |  |  (C) | (C) | (C) | 
+| Team Member (Last Name, First Name)  |  | (C) | (C)| (C) | 
+| Team Member (Last Name, First Name)  |  | (C) | (C) | (C) | 
+| Team Member (Last Name, First Name)  |  | (C) | (C) | (C) | 
 
 5.4. Video About-the-Product.
 
