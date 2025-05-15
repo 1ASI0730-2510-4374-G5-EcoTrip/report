@@ -200,9 +200,14 @@ Con el propósito de desarrollar una app que satisfaga las necesidades particula
 
 Para esta sección se han creado personajes ficticios, cada uno diseñado para representar a un segmento específico de usuarios. La información utilizada para desarrollar estos "User personas" proviene de entrevistas previas realizadas a cada segmento objetivo. Estas entrevistas tenían como objetivo comprender mejor a las personas a las que se dirige la aplicación. Se consideraron datos demográficos, metas, motivaciones, frustraciones, marcas relacionadas con el tema de la aplicación, canales digitales más utilizados, entre otros. La creación de esta sección se llevó a cabo utilizando la plataforma UXPressia.
 
-- **Segmento objetivo: Programador Freelance y Turista**
+- **Segmento objetivo: Turista responsable**
   
-![User Persona: Salvador](images/SalvadorSalinas.png)
+![User Persona: Maria Fernandez](images/Maria.png)
+
+- **Segmento objetivo: Proveedor turístico sostenible**
+  
+![User Persona: Pedro Rios](images/Pedro-Rios.png)
+
 
 ### <a name="user-task-matrix"></a> 2.3.2. User Task Matrix
 
