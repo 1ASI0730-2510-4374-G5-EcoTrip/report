@@ -6,11 +6,16 @@
 
 <img src ="img/UPC_logo_transparente.png">
 
+
 ### Ingeniería de Software
+
+
 
 ### 4374 - Aplicaciones Web
 
 ### Docente: Alberto Wilmer Sanchez Seña
+
+
 
 ### "Informe de Trabajo Final"
 
@@ -203,151 +208,203 @@ con mucha riqueza natural y que ofrece una gran cantidad de destinos con poblaci
 
 ### Capítulo II: Requirements Elicitation & Analysis
 
-2.1. Competidores.
+## 2.1 Competidores
 
-2.1.1. Análisis competitivo.
+### 2.1.1. Análisis competitivo
 
-2.1.2. Estrategias y tácticas frente a competidores.
+### 2.1.2. Estrategias y tácticas frente a competidores
 
-2.2. Entrevistas.
+## 2.2. Entrevistas
 
-2.2.1. Diseño de entrevistas.
+### 2.2.1. Diseño de entrevistas
 
-2.2.2. Registro de entrevistas.
+### 2.2.2. Registro de entrevistas
 
-2.2.3. Análisis de entrevistas.
+### 2.2.3. Análisis de entrevistas
 
-2.3. Needfinding.
+## <a name="need-finding"></a> 2.3. Needfinding
 
 Con el propósito de desarrollar una app que satisfaga las necesidades particulares de los usuarios, Ecotrip llevará a cabo la identificación del User persona, User Task Matrix, User Journey Maps y Empathy Mapping.
 
-2.3.1. User Personas.
+### <a name="user-personas"></a> 2.3.1. User Personas
 
 Para esta sección se han creado personajes ficticios, cada uno diseñado para representar a un segmento específico de usuarios. La información utilizada para desarrollar estos "User personas" proviene de entrevistas previas realizadas a cada segmento objetivo. Estas entrevistas tenían como objetivo comprender mejor a las personas a las que se dirige la aplicación. Se consideraron datos demográficos, metas, motivaciones, frustraciones, marcas relacionadas con el tema de la aplicación, canales digitales más utilizados, entre otros. La creación de esta sección se llevó a cabo utilizando la plataforma UXPressia.
 
-- **Segmento objetivo: Programador Freelance y Turista**
+- **Segmento objetivo: Turista responsable**
+  
+![User Persona: Maria Fernandez](images/Maria.png)
 
-![User Persona: Salvador](images/SalvadorSalinas.png)
+- **Segmento objetivo: Proveedor turístico sostenible**
+  
+![User Persona: Pedro Rios](images/Pedro-Rios.png)
 
-2.3.2. User Task Matrix.
 
-En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones:nunca ,casi nunca, a veces, a menudo ,siempre; y para la importancia tres opciones: bajo, medio, alto". En relación con la matriz de tareas de los usuarios, podemos identificar tanto las tareas de mayor frecuencia como las de mayor importancia, así como las diferencias y similitudes entre los diferentes tipos de usuarios.
+### <a name="user-task-matrix"></a> 2.3.2. User Task Matrix
 
-<table><tr><th rowspan="2" valign="top"><b><i>User task Matrix</i></b></th><th colspan="2" valign="top"><b><i>Salvador Salinas</i></b></th><th colspan="2" valign="top"><p><b><i>xxxxxxxxxx</i></b> </p><p><b><i></i></b></p></th></tr>
-<tr><td valign="top"><b><i>Frecuencia</i></b> </td><td valign="top"><b><i>Importancia</i></b></td><td valign="top"><b><i>Frecuencia</i></b> </td><td valign="top"><b><i>Importancia</i></b></td></tr>
-<tr><td>Registrarse</td><td><b><i>Una vez</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Una vez</i></b></td><td><b><i>Alta</i></b></td></tr>
-<tr><td>Iniciar sesión</td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td></tr>
-<tr><td>Buscar tours</td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td></tr>
-<tr><td>Reservar tours</td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td></tr>
-<tr><td>Crear reseñas/comentarios</td><td><b><i>Siempre</i></b></td><td><b><i>Media</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Media</i></b></td></tr>
-<tr><td>Editar perfil</td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td></tr>
-<tr><td>Guardar tours favoritos</td><td><b><i>Siempre</i></b></td><td><b><i>Medio</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Medio</i></b></td></tr>
-<tr><td>Recibir recomendaciones personalizadas</td><td><b><i>A veces</i></b></td><td><b><i>Baja</i></b></td><td><b><i>Casi nunca</i></b></td><td><b><i>Baja</i></b></td></tr>
+En esta sección se presenta el User Task Matrix, una herramienta centrada en nuestros dos segmentos objetivos principales: el Turista Responsable y el Proveedor Turístico Sostenible. Esta matriz permite identificar y comparar las tareas clave que cada usuario realiza o espera realizar en la plataforma.
+
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr>
+    <th><b><i>User Task Matrix</i></b></th>
+    <th><b><i>Lucía (Turista Responsable)</i></b></th>
+    <th><b><i>Pedro (Proveedor Turístico)</i></b></th>
+  </tr>
+  <tr>
+    <td>Buscar experiencias sostenibles</td>
+    <td style="text-align: center;"><i>Alta</i></td>
+    <td style="text-align: center;"><i>No aplica</i></td>
+  </tr>
+  <tr>
+    <td>Filtrar experiencias por ubicación/interés</td>
+    <td style="text-align: center;"><i>Alta</i></td>
+    <td style="text-align: center;"><i>No aplica</i></td>
+  </tr>
+  <tr>
+    <td>Ver perfil y calificaciones del proveedor</td>
+    <td style="text-align: center;"><i>Media</i></td>
+    <td style="text-align: center;"><i>No aplica</i></td>
+  </tr>
+  <tr>
+    <td>Reservar una experiencia</td>
+    <td style="text-align: center;"><i>Alta</i></td>
+    <td style="text-align: center;"><i>No aplica</i></td>
+  </tr>
+  <tr>
+    <td>Crear y publicar una experiencia</td>
+    <td style="text-align: center;"><i>No aplica</i></td>
+    <td style="text-align: center;"><i>Alta</i></td>
+  </tr>
+  <tr>
+    <td>Gestionar reservas recibidas</td>
+    <td style="text-align: center;"><i>No aplica</i></td>
+    <td style="text-align: center;"><i>Alta</i></td>
+  </tr>
+  <tr>
+    <td>Recibir pagos por experiencias</td>
+    <td style="text-align: center;"><i>No aplica</i></td>
+    <td style="text-align: center;"><i>Alta</i></td>
+  </tr>
+  <tr>
+    <td>Editar información de su perfil</td>
+    <td style="text-align: center;"><i>Media</i></td>
+    <td style="text-align: center;"><i>Media</i></td>
+  </tr>
+  <tr>
+    <td>Chatear con otros usuarios</td>
+    <td style="text-align: center;"><i>Media</i></td>
+    <td style="text-align: center;"><i>Media</i></td>
+  </tr>
+  <tr>
+    <td>Calificar experiencias</td>
+    <td style="text-align: center;"><i>Alta</i></td>
+    <td style="text-align: center;"><i>Baja</i></td>
+  </tr>
+  <tr>
+    <td>Acceder a soporte o ayuda</td>
+    <td style="text-align: center;"><i>Media</i></td>
+    <td style="text-align: center;"><i>Media</i></td>
+  </tr>
 </table>
 
-**Para los Turistas Frecuentes, las tareas más importantes y recurrentes incluyen:**
 
-- Buscar y reservar tours: Son actividades clave que definen su experiencia continua en la plataforma, por lo tanto tienen una frecuencia alta y una importancia alta.
-- Guardar tours favoritos: Les permite planificar y comparar opciones, mejorando la experiencia personalizada.
-- Recibir recomendaciones personalizadas: Es fundamental para facilitarles nuevas experiencias alineadas con sus intereses, por eso es tanto frecuente como valiosa.
-- Iniciar sesión y editar perfil: Aunque rutinarias, son necesarias para una navegación fluida.
 
-**Por otro lado, para los Turistas Ocasionales, las tareas más relevantes son:**
+Esta clasificación facilita la priorización de características durante la construcción del Product Backlog, asegurando que se enfoquen primero las funcionalidades más relevantes para cada tipo de usuario. Además, el análisis comparativo permite visualizar las similitudes, diferencias, y oportunidades entre ambos perfiles.
 
-- Registrarse e iniciar sesión: Aunque menos frecuentes, son esenciales para acceder a cualquier funcionalidad dentro de la plataforma.
-- Reservar tours: A pesar de ser usada ocasionalmente, tiene una alta importancia cuando ocurre.
-- Buscar tours: Se realiza con menos frecuencia, pero es clave en su momento de decisión.
-
-Ambos tipos de turistas comparten el interés por reservar tours y acceder al contenido básico, pero las funcionalidades como recomendaciones o guardar favoritos son significativamente más relevantes para los usuarios frecuentes. Esto refleja las diferentes necesidades y comportamientos entre quienes usan la plataforma esporádicamente frente a quienes la integran en su estilo de vida viajero.
-
-2.3.3. User Journey Mapping.
+### <a name="user-journey-mapping"></a> 2.3.3. User Journey Mapping
 
 En esta sección, se describen en detalle los User Journey Mapping para dos perfiles distintos de usuarios de la plataforma de turismo responsable: los Turistas Ocasionales y los Turistas Frecuentes. Estos mapas proporcionan una visión integral del recorrido que cada tipo de usuario realiza dentro del sistema, desde el primer contacto con la plataforma hasta su uso habitual y su interacción continua con las funcionalidades ofrecidas. Se destacan las etapas clave, las emociones y necesidades específicas de cada usuario, para asegurar una comprensión clara de su experiencia global.
 
-_Para Turistas Ocasionales_
+*Para Turista Responsable* 
+- El recorrido de Lucía comienza motivado por su interés en descubrir experiencias sostenibles, auténticas y respetuosas con el entorno local. Su primer contacto con la plataforma suele darse a través de búsquedas en Google, recomendaciones de amigos o redes sociales.
 
-- El recorrido del Turista Ocasional comienza generalmente por la búsqueda de opciones de viaje de manera espontánea, motivado por una necesidad puntual de escapar de la rutina o aprovechar una oportunidad (vacaciones, feriados, etc.). Su primer contacto con la plataforma suele ser a través de búsquedas orgánicas o recomendaciones de terceros.
+- Una vez en la plataforma, explora experiencias disponibles, filtra por destino e impacto ambiental, y se registra para poder reservar. Lucía valora una navegación clara y confiable, con información transparente sobre sostenibilidad, seguridad y beneficios locales.
+  
+- Tras reservar y vivir la experiencia, suele dejar una reseña, evaluar al proveedor y, si su experiencia fue positiva, volver a utilizar la plataforma en futuros viajes. También le interesa guardar tours y recibir recomendaciones personalizadas según sus intereses.
 
-- Una vez dentro, realiza el registro para poder acceder a contenido completo y proceder con la reserva de un tour. La experiencia debe ser intuitiva y sin fricción, ya que este tipo de usuario no está habituado a navegar frecuentemente por plataformas de este tipo.
-- Después de su experiencia en el tour, puede dejar una reseña ocasional, aunque en muchos casos no vuelve a usar la plataforma a corto plazo, a menos que se generen recordatorios o recomendaciones personalizadas en el futuro.
+*Para Proveedor Turístico Sostenible*
+- El viaje de Pedro inicia cuando busca una forma de dar visibilidad a sus experiencias locales sin intermediarios tradicionales. Descubre la plataforma a través de un correo de invitación, recomendación de otro proveedor o una publicación en redes profesionales.
+  
+- Se registra y configura su perfil de proveedor. Publica sus experiencias detallando impacto social, logístico y ambiental. Necesita un panel sencillo para subir fotos, definir precios y gestionar reservas.
+  
+- Una vez que los turistas comienzan a reservar, Pedro gestiona la disponibilidad, responde consultas y organiza la logística. Después del tour, revisa las reseñas y ajusta su oferta según los comentarios. Busca construir una reputación confiable, ya que esto influye directamente en su visibilidad dentro de la plataforma.
 
-_Para Turistas Frecuentes_
+Aunque tienen objetivos distintos, ambos comparten una motivación común: participar activamente en un turismo más consciente, auténtico y sostenible. Sus recorridos reflejan roles complementarios dentro del ecosistema de la plataforma.
 
-- El Turista Frecuente tiene un comportamiento más estratégico y constante. Su viaje inicia incluso antes del registro, con una exploración activa de opciones, muchas veces comparando múltiples experiencias de turismo responsable.
-- Este usuario se registra con la intención de aprovechar funcionalidades avanzadas como guardar tours favoritos, recibir recomendaciones personalizadas, y gestionar múltiples reservas. Navega regularmente la plataforma, mantiene actualizado su perfil, y deja reseñas de sus experiencias, valorando la posibilidad de interactuar con la comunidad y contribuir a la mejora de los servicios ofrecidos.
-- Su viaje es cíclico: busca, compara, reserva, evalúa, y repite. A lo largo del tiempo, se convierte en un embajador de la marca, recomendando la plataforma a otros viajeros y contribuyendo activamente a la mejora de los contenidos.
 
-Tanto los Turistas Ocasionales como los Turistas Frecuentes comparten el deseo de acceder a experiencias significativas y auténticas de turismo responsable. Sin embargo, sus interacciones con la plataforma difieren en profundidad y frecuencia.
+- #### *Turista Responsable*
+| Etapa                         | Acción del usuario (Turista ocasional)       | Emoción         | Canal                       | Oportunidad de mejora                           |
+|------------------------------|----------------------------------------------|-----------------|-----------------------------|------------------------------------------------|
+| Descubrimiento               | Encuentra la plataforma por redes o buscador | Curiosidad      | Web, redes sociales         | Mejorar posicionamiento SEO y contenido visual |
+| Registro                     | Se registra para ver detalles de un tour     | Interés         | Página web                  | Simplificar el proceso de registro             |
+| Exploración                  | Navega tours sin un objetivo claro           | Confusión       | Navegador                   | Sugerencias iniciales según localización       |
+| Reserva                      | Selecciona y reserva un tour                 | Satisfacción    | Página de reservas          | Ofrecer asistencia en tiempo real              |
+| Participación en el tour     | Asiste a la actividad                        | Entusiasmo      | Presencial                  | Recordatorios y checklist antes del tour       |
+| Post-experiencia             | Puede dejar una reseña o no                  | Desconexión     | Email, web                  | Incentivar feedback con recompensas            |
 
-- #### _Turistas Ocasionales_
 
-  | Etapa                    | Acción del usuario (Turista ocasional)       | Emoción      | Canal               | Oportunidad de mejora                          |
-  | ------------------------ | -------------------------------------------- | ------------ | ------------------- | ---------------------------------------------- |
-  | Descubrimiento           | Encuentra la plataforma por redes o buscador | Curiosidad   | Web, redes sociales | Mejorar posicionamiento SEO y contenido visual |
-  | Registro                 | Se registra para ver detalles de un tour     | Interés      | Página web          | Simplificar el proceso de registro             |
-  | Exploración              | Navega tours sin un objetivo claro           | Confusión    | Navegador           | Sugerencias iniciales según localización       |
-  | Reserva                  | Selecciona y reserva un tour                 | Satisfacción | Página de reservas  | Ofrecer asistencia en tiempo real              |
-  | Participación en el tour | Asiste a la actividad                        | Entusiasmo   | Presencial          | Recordatorios y checklist antes del tour       |
-  | Post-experiencia         | Puede dejar una reseña o no                  | Desconexión  | Email, web          | Incentivar feedback con recompensas            |
+- #### *Proveedor Turístico Sostenible*
+| Etapa                         | Acción del usuario (Turista frecuente)       | Emoción         | Canal                       | Oportunidad de mejora                           |
+|------------------------------|----------------------------------------------|-----------------|-----------------------------|------------------------------------------------|
+| Descubrimiento               | Conoce la plataforma a través de otros guías, redes o invitaciones    | EntusCuriosidad, escepticismoasmo      | Facebook, WhatsApp, web                   | Campañas de captación con testimonios de otros proveedores                   |
+| Registro                     | Se registra como proveedor, completa perfil y verifica identidad                                | Motivación, dudas técnicas       | Formulario, email de verificación                    | Proceso guiado, soporte en línea, validación rápida            |
+| Publicación                  | Crea y publica una experiencia con fotos, texto y precio       | Creatividad, expectativa       | Dashboard proveedor             | Asistente de publicación, plantillas prediseñadas     |
+| Gestión                      | Recibe reservas, responde dudas, organiza logística del tour                     | Organización, estrés  | Panel de reservas, mensajería                 | Sistema de alertas, app móvil para gestión rápida              |
+| Entrega del tour     | Da la experiencia presencialmente                    | Entusiasmo      | WhatsApp, en persona                  | Confirmación previa, herramientas de check-in         |
+| Retención          | Publica nuevas experiencias, busca subir su reputación           | Motivación, compromiso      | Email, plataforma           | Enviar reportes de desempeño, sugerencias automáticas            |
 
-- #### _Turistas Frecuentes_
 
-  | Etapa                    | Acción del usuario (Turista frecuente)    | Emoción     | Canal             | Oportunidad de mejora                   |
-  | ------------------------ | ----------------------------------------- | ----------- | ----------------- | --------------------------------------- |
-  | Descubrimiento           | Visita frecuente para buscar nuevos tours | Entusiasmo  | App, web          | Notificaciones personalizadas           |
-  | Registro                 | Ya registrado                             | Confianza   | Web/App           | Acceso rápido con login automático      |
-  | Exploración              | Usa filtros, compara, guarda favoritos    | Seguridad   | App, navegador    | Mostrar experiencias similares          |
-  | Reserva                  | Reserva múltiples tours                   | Expectativa | Plataforma        | Ofrecer paquetes personalizados         |
-  | Participación en el tour | Asiste a las actividades                  | Entusiasmo  | Presencial        | Opciones de compartir en redes sociales |
-  | Post-experiencia         | Deja reseña y comparte experiencia        | Compromiso  | Web, email, redes | Programa de fidelización o referidos    |
+### <a name="empathy-mapping"></a> 2.3.4. Empathy Mapping
 
-  2.3.4. Empathy Mapping.
+En esta sección se presenta el Empathy Mapping, una herramienta esencial para construir perfiles detallados de los dos principales user personas de la plataforma: Lucía, Turista Responsable, y Pedro, Proveedor Turístico Sostenible.
 
-En esta sección se aborda el Empathy Mapping, una herramienta esencial para elaborar perfiles detallados de los user personas y profundizar en la comprensión de su perspectiva y experiencia. Cada user persona se analiza a través de cinco elementos cruciales: lo que el usuario ve, escucha,dice, hace y siente. Además, se identifican los problemas (pains) y beneficios (gains) de acuerdo con una serie de preguntas estratégicas:¿Qué preocupaciones o desafíos enfrenta el usuario en su trabajo diario?¿Qué mejoras o soluciones podrían resolver los problemas identificados?¿Qué argumentos podrían persuadir al usuario de que nuestra solución es la mejor opción para satisfacer sus necesidades profesionales?
+El objetivo es comprender de forma profunda sus pensamientos, emociones, comportamientos y motivaciones al interactuar con la plataforma. Para ello, se analiza lo que cada usuario ve, oye, dice, hace y siente, además de identificar sus dolores (pains) y beneficios esperados (gains).
 
-En esta sección se aborda el Empathy Mapping, una herramienta esencial para construir perfiles detallados de los user personas y profundizar en la comprensión de su perspectiva y experiencia durante la interacción con la plataforma. Este análisis se ha estructurado considerando cinco elementos clave: lo que el usuario ve, escucha, dice, hace y siente, además de identificar los problemas (pains) y beneficios (gains) que marcan su recorrido y necesidades.
+Este ejercicio permite empatizar con sus contextos reales, facilitando el diseño de funcionalidades centradas en las verdaderas necesidades de cada segmento.
 
-- **Segmento: Turistas Frecuentes**
+- **Segmento: Turista Responsable**
 
-| Etapa                | Registro                            | Búsqueda de tours                      | Reserva                               | Experiencia del tour                        | Revisión y seguimiento                     |
-| -------------------- | ----------------------------------- | -------------------------------------- | ------------------------------------- | ------------------------------------------- | ------------------------------------------ |
-| **User goals**       | Acceder rápidamente a su cuenta     | Encontrar experiencias únicas y nuevas | Reservar sin repetir datos            | Tener un servicio ágil y profesional        | Dejar feedback o repetir experiencia       |
-| **Touchpoints**      | Login con Google/Facebook           | Filtros avanzados, tours recomendados  | Perfil guardado con datos precargados | Confirmaciones automáticas, asistencia 24/7 | Correo de agradecimiento, link a favoritos |
-| **Customer Thought** | “Ya tengo cuenta, quiero entrar ya” | “¿Hay algo nuevo o diferente?”         | “¿Puedo reservar en 2 clics?”         | “¿Tendré soporte si algo falla?”            | “¿Vale la pena repetir o recomendar?”      |
-| **Experience**       | 😄 Rápida y eficiente               | 🙂 Curiosa y motivada                  | 😄 Satisfactoria                      | 😄 Profesional y sin contratiempos          | 😄 Positiva y leal                         |
-| **Ideas/Opps**       | Recordar sesión automáticamente     | Notificaciones de nuevos tours         | Botón de reserva rápida               | Chatbot o número de contacto directo        | Programa de recompensas o referidos        |
+| Etapa                | Registro                           | Búsqueda de tours                           | Reserva                                   | Experiencia del tour                 | Revisión y seguimiento                   |
+| -------------------- | ---------------------------------- | ------------------------------------------- | ----------------------------------------- | ------------------------------------ | ---------------------------------------- |
+| **User goals**       | Acceder sin complicaciones         | Encontrar opciones auténticas y sostenibles | Reservar sin repetir pasos                | Vivir una experiencia local única    | Compartir su experiencia y evaluar       |
+| **Touchpoints**      | Formulario simple, login social    | Buscador con filtros y etiquetas            | Pasarela intuitiva, historial de reservas | Confirmaciones, contacto con guía    | Email post-tour, botón para dejar reseña |
+| **Customer Thought** | “Quiero empezar sin perder tiempo” | “¿Qué lugares realmente valen la pena?”     | “¿Mi pago está protegido?”                | “¿Será como lo prometieron?”         | “¿Cómo ayudo a otros viajeros como yo?”  |
+| **Experience**       | 🙂 Fluida y amigable               | 🙂 Interesante y consciente                 | 😄 Confiable y directa                    | 😄 Auténtica y enriquecedora         | 😄 Gratificante y útil                   |
+| **Ideas/Opps**       | Autocompletar desde Gmail          | Etiquetas como ‘eco-friendly’, ‘local’      | Pago en un clic con billetera digital     | Asistente virtual para dudas rápidas | Recompensa por dejar reseñas             |
 
-- **Segmento: Turistas Ocasionales**
+- **Segmento: Proveedor Turístico Sostenible**
 
-| Etapa                | Registro                        | Búsqueda de tours                              | Reserva                              | Experiencia del tour                  | Revisión y seguimiento          |
-| -------------------- | ------------------------------- | ---------------------------------------------- | ------------------------------------ | ------------------------------------- | ------------------------------- |
-| **User goals**       | Crear cuenta fácilmente         | Encontrar un tour accesible sin mucho esfuerzo | Reservar rápido y sin complicaciones | Tener una experiencia guiada y clara  | Confirmar que todo salió bien   |
-| **Touchpoints**      | Registro con email o Google     | Tours destacados, búsqueda sencilla            | Pasarela de pago clara y guiada      | Instrucciones por correo/WhatsApp     | Enlace a reseña, agradecimiento |
-| **Customer Thought** | “¿Esto es fácil o toma tiempo?” | “¿Este tour vale la pena?”                     | “¿Es seguro pagar aquí?”             | “¿Sabré a dónde ir y qué hacer?”      | “¿Debo dejar una opinión?”      |
-| **Experience**       | 🙂 Intuitiva                    | 😐 Un poco indecisa                            | 🙂 Clara y sin estrés                | 🙂 Cómoda y bien organizada           | 🙂 Positiva, pero breve         |
-| **Ideas/Opps**       | Acceso simplificado o invitado  | Mostrar reseñas visibles y puntuación          | Asistente visual durante la reserva  | Alertas automáticas y contacto rápido | Incentivo por dejar reseña      |
+| Etapa                | Registro                             | Publicación de tour                  | Gestión de reservas                   | Ejecución del tour                      | Evaluación y continuidad                  |
+| -------------------- | ------------------------------------ | ------------------------------------ | ------------------------------------- | --------------------------------------- | ----------------------------------------- |
+| **User goals**       | Registrar su oferta fácilmente       | Describir su tour de forma atractiva | Organizar sin errores ni olvidos      | Dar una experiencia memorable y segura  | Recibir feedback, mejorar y seguir activo |
+| **Touchpoints**      | Registro con ayuda paso a paso       | Panel con plantilla de tours         | Calendario, notificaciones, chat      | Checklist del día, contacto con turista | Plataforma de evaluación, estadísticas    |
+| **Customer Thought** | “¿Será complicado llenar todo esto?” | “¿Mi tour llama la atención?”        | “¿Todo está confirmado y claro?”      | “¿Los turistas estarán satisfechos?”    | “¿Estoy creciendo en la plataforma?”      |
+| **Experience**       | 🙂 Simple y bien guiada              | 🙂 Creativa pero necesita apoyo      | 🙂 Organizada y clara                 | 😄 Profesional y con buen feedback      | 😄 Motivadora y constructiva              |
+| **Ideas/Opps**       | Tutorial interactivo                 | Asistente para redacción atractiva   | App móvil para gestión en tiempo real | Confirmación de llegada del turista     | Tips automáticos para mejorar perfil      |
 
-2.3.5. As-is Scenario Mapping.
+### <a name="as-is"></a> 2.3.5. As-is Scenario Mapping
+En esta sección se presenta el As-Is Scenario Mapping para cada uno de los segmentos objetivos identificados: Turista Responsable y Proveedor Turístico Sostenible. Este análisis tiene como objetivo visualizar cómo estos usuarios interactúan actualmente con plataformas digitales al planificar, ofrecer o reservar experiencias de viaje, y así detectar oportunidades de mejora, frustraciones comunes y necesidades no cubiertas.
 
-En esta sección se presenta el As-is Scenario Mapping para cada uno de los segmentos de usuarios identificados: Turistas Frecuentes y Turistas Ocasionales. Este análisis tiene como objetivo visualizar cómo interactúan actualmente estos usuarios con plataformas digitales para planificar y reservar experiencias de viaje, y así detectar puntos de mejora, frustraciones y oportunidades no exploradas.
+Para este mapeo se han considerado cinco fases clave del recorrido del usuario: Descubrimiento, Evaluación, Reserva, Experiencia y Seguimiento. En cada etapa se identifican acciones típicas, aspectos positivos, dificultades experimentadas y oportunidades que pueden guiar el diseño de funcionalidades relevantes para nuestra plataforma de turismo responsable.
 
-El proceso contempla las siguientes fases clave: Descubrimiento, Evaluación, Reserva, Experiencia y Seguimiento. En cada una se destacan tanto los aspectos positivos como negativos vividos por los usuarios, así como las áreas en las que aún se requiere mayor investigación.
+El análisis se basa en entrevistas y observaciones realizadas durante la fase de investigación, complementadas con supuestos validados por referencias externas, permitiendo entender el contexto actual y orientar decisiones estratégicas centradas en el usuario.
 
-_As-is Scenario mapping: Turistas Frecuentes_
 
-![As-Is: frecuentes](images/As-is_ScenarioMapping1.png)
+*As-is Scenario mapping: Turista Responsable*
+  
+  ![As-Is: frecuentes](images/Scenario-Mapping1.png)
 
-_As-is Scenario mapping: Turistas Ocasionales_
+*As-is Scenario mapping: Proveedor Turístico Sostenible*
+  
+  ![As-Is: frecuentes](images/Scenario-Mapping2.png)
 
-![As-Is: frecuentes](images/As-is_ScenarioMapping2.png)
 
-2.4. Ubiquitous Language.
 
 ### Capítulo III: Requirements Specification
 
 3.1. To-Be Scenario Mapping.
 
-En esta sección se presenta el _To-Be Scenario Mapping_ para cada uno de los segmentos de usuarios identificados: **Turistas Frecuentes** y **Turistas Ocasionales**. Este análisis tiene como objetivo visualizar cómo se transformaría la experiencia de estos usuarios al utilizar **EcoTrip**, una plataforma digital enfocada en la planificación y reserva de experiencias de viaje sostenibles.
+En esta sección se presenta el *To-Be Scenario Mapping* para cada uno de los segmentos de usuarios identificados: **Turistas Responsables** y **Proveedores Turísticos Sostenibles**. Este análisis tiene como objetivo visualizar cómo se transformaría la experiencia de estos usuarios al utilizar **EcoTrip**, una plataforma digital enfocada en la planificación y reserva de experiencias de viaje sostenibles.
 
 A través del uso de EcoTrip, se busca mejorar los puntos de dolor detectados en el As-Is Scenario Mapping, ofreciendo una experiencia más intuitiva, informada y alineada con valores de responsabilidad ambiental y sostenibilidad. El mapeo considera los cambios clave que esta nueva solución podría aportar en términos de comportamiento, pensamiento y emociones de los usuarios.
 
@@ -360,13 +417,13 @@ El proceso de elaboración del To-Be Scenario Mapping siguió las siguientes eta
 
 Las fases consideradas en este análisis son: **Descubrimiento, Evaluación, Reserva, Experiencia y Seguimiento.**
 
-#### To-Be Scenario Mapping – Turista Frecuente
 
-![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/tobe1.jpg?alt=media&token=462ed5e0-3ddc-4eb1-b2c6-3bdcf1e759a5)
+#### To-Be Scenario Mapping – Turistas Responsables
+![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/tobe1.jpg?alt=media&token=16534694-15c3-4cf9-aedd-6f7f3e9d7fe4)
 
-#### To-Be Scenario Mapping – Turista Ocasional
+#### To-Be Scenario Mapping – Proveedores Turísticos Sostenibles
+![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/tobe2.jpg?alt=media&token=da5d1a75-1f37-4e5e-abe0-e0b945fdbc1c)
 
-![To-Be Scenario Mapping](https://firebasestorage.googleapis.com/v0/b/abraam-66aa7.appspot.com/o/tobe2.jpg?alt=media&token=5669aba7-5f26-41ff-9548-fdd1c3a5084e)
 
 3.2. User Stories.
 
@@ -374,20 +431,37 @@ En esta sección se presentan las User Stories desarrolladas para el proyecto Ec
 
 Cada historia refleja una necesidad concreta de los usuarios y está asociada a una funcionalidad clave del sistema. Asimismo, se incluyen los criterios de aceptación formulados en formato Gherkin, con tres escenarios por historia, lo cual permite validar de manera precisa y completa si una funcionalidad cumple con los requisitos del usuario. Esta estructura facilita la planificación ágil del desarrollo y asegura el alineamiento entre el equipo de diseño, desarrollo y las expectativas de los usuarios.
 
-| **Epic / Story ID** | **Título**                      | **Descripción**                                                                                                            | **Criterios de Aceptación (Gherkin)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Relacionado con (Epic ID)** |
-| ------------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| EP-01               | Explorar experiencias           | Como visitante del segmento _Turista Ocasional_, quiero ver experiencias sostenibles para saber qué ofrece EcoTrip.        | **Escenario 1:**<br>**Given** que soy un visitante del segmento _Turista Ocasional_<br>**When** ingreso a la sección de experiencias<br>**Then** veo una lista de actividades con nombre, lugar y tipo.<br><br>**Escenario 2:**<br>**Given** que estoy en la lista de experiencias<br>**When** hago clic en una actividad<br>**Then** accedo a una página con información detallada.<br><br>**Escenario 3:**<br>**Given** que veo la lista<br>**When** no hay actividades disponibles<br>**Then** recibo un mensaje de “No se encontraron experiencias”. | -                             |
-| US-01.1             | Filtrar experiencias            | Como visitante del segmento _Turista Frecuente_, quiero filtrar por tipo de experiencia para encontrar lo que me interesa. | **Escenario 1:**<br>**Given** que estoy viendo las experiencias<br>**When** selecciono “Voluntariado” en los filtros<br>**Then** solo se muestran experiencias de voluntariado.<br><br>**Escenario 2:**<br>**Given** que ya he filtrado<br>**When** regreso a la lista<br>**Then** el filtro se mantiene aplicado.<br><br>**Escenario 3:**<br>**Given** que selecciono varios tipos<br>**When** aplico los filtros<br>**Then** se actualiza la lista con las experiencias combinadas.                                                                    | EP-01                         |
-| EP-02               | Registro de proveedores         | Como proveedor, quiero registrarme para ofrecer mis servicios turísticos.                                                  | **Escenario 1:**<br>**Given** que soy proveedor<br>**When** ingreso mis datos en el formulario<br>**Then** puedo enviar mi solicitud para revisión.<br><br>**Escenario 2:**<br>**Given** que subo mis documentos<br>**When** los archivos son válidos<br>**Then** el sistema me permite completar el registro.<br><br>**Escenario 3:**<br>**Given** que envío el formulario<br>**When** el proceso es exitoso<br>**Then** recibo un correo de confirmación.                                                                                              | -                             |
-| US-02.1             | Aprobación de proveedor         | Como administrador, quiero revisar los datos del proveedor para aprobar o rechazar su ingreso.                             | **Escenario 1:**<br>**Given** que hay una solicitud nueva<br>**When** reviso los documentos<br>**Then** puedo aprobarla desde el panel.<br><br>**Escenario 2:**<br>**Given** que detecto errores<br>**When** rechazo la solicitud<br>**Then** puedo escribir una razón y notificar al proveedor.<br><br>**Escenario 3:**<br>**Given** que apruebo una solicitud<br>**When** finalizo el proceso<br>**Then** se actualiza el estado a “Proveedor Activo”.                                                                                                 | EP-02                         |
-| EP-03               | Crear plan                      | Como turista del segmento _Turista Frecuente_, quiero crear mi propio plan de viaje con actividades y hospedajes.          | **Escenario 1:**<br>**Given** que estoy registrado<br>**When** accedo a la herramienta de itinerario<br>**Then** puedo agregar actividades, hospedajes y traslados.<br><br>**Escenario 2:**<br>**Given** que ya tengo un plan<br>**When** edito una actividad<br>**Then** se actualiza el itinerario en tiempo real.<br><br>**Escenario 3:**<br>**Given** que he terminado mi plan<br>**When** hago clic en guardar<br>**Then** puedo acceder a él desde mi perfil.                                                                                      | -                             |
-| US-03.1             | Recomendaciones para itinerario | Como turista del segmento _Turista Ocasional_, quiero recibir sugerencias basadas en mis gustos.                           | **Escenario 1:**<br>**Given** que he completado mi perfil<br>**When** ingreso a la herramienta<br>**Then** veo actividades sugeridas basadas en mis intereses.<br><br>**Escenario 2:**<br>**Given** que no me gustan las sugerencias<br>**When** las marco como “No me interesa”<br>**Then** el sistema aprende y actualiza la lista.<br><br>**Escenario 3:**<br>**Given** que acepto una sugerencia<br>**When** la agrego al itinerario<br>**Then** se incorpora correctamente en mi plan.                                                              | EP-03                         |
-| EP-04               | Conexión con guías              | Como turista del segmento _Turista Frecuente_, quiero contactar guías que hablen mi idioma.                                | **Escenario 1:**<br>**Given** que estoy buscando guías<br>**When** selecciono “Español”<br>**Then** solo se muestran guías que lo hablen.<br><br>**Escenario 2:**<br>**Given** que veo un guía<br>**When** accedo a su perfil<br>**Then** puedo leer reseñas y ver disponibilidad.<br><br>**Escenario 3:**<br>**Given** que encuentro un guía disponible<br>**When** lo contacto<br>**Then** puedo enviarle un mensaje directamente.                                                                                                                     | -                             |
-| US-04.1             | Reservar guía específico        | Como turista del segmento _Turista Ocasional_, quiero poder reservar a un guía en específico.                              | **Escenario 1:**<br>**Given** que encontré un guía<br>**When** elijo una fecha disponible<br>**Then** puedo hacer la reserva fácilmente.<br><br>**Escenario 2:**<br>**Given** que hice la reserva<br>**When** reviso mi perfil<br>**Then** veo la reserva en mi historial.<br><br>**Escenario 3:**<br>**Given** que el guía la confirma<br>**When** recibo el correo<br>**Then** me muestra el lugar y hora del encuentro.                                                                                                                               | EP-04                         |
-| EP-05               | Reservas y pagos                | Como turista del segmento _Turista Frecuente_, quiero reservar experiencias y pagar fácilmente.                            | **Escenario 1:**<br>**Given** que selecciono una experiencia<br>**When** voy a pagar<br>**Then** puedo elegir entre tarjeta, Yape o transferencia.<br><br>**Escenario 2:**<br>**Given** que el pago fue exitoso<br>**When** reviso mi perfil<br>**Then** veo la reserva con estado “Confirmado”.<br><br>**Escenario 3:**<br>**Given** que tengo una duda<br>**When** hago clic en “Soporte”<br>**Then** me comunico con atención al cliente.                                                                                                             | -                             |
-| US-05.1             | Cancelar reserva                | Como turista del segmento _Turista Ocasional_, quiero cancelar una reserva si no podré asistir.                            | **Escenario 1:**<br>**Given** que tengo una reserva activa<br>**When** accedo a ella<br>**Then** veo la opción para cancelar.<br><br>**Escenario 2:**<br>**Given** que cancelo con anticipación<br>**When** el plazo lo permite<br>**Then** recibo un reembolso automático.<br><br>**Escenario 3:**<br>**Given** que se cancela<br>**When** reviso mi correo<br>**Then** encuentro una confirmación de cancelación.                                                                                                                                      | EP-05                         |
-| EP-06               | Página informativa              | Como visitante del segmento _Turista Ocasional_, quiero saber qué es EcoTrip y qué servicios ofrece.                       | **Escenario 1:**<br>**Given** que ingreso al sitio<br>**When** accedo a la sección “Sobre EcoTrip”<br>**Then** encuentro una descripción clara de la plataforma.<br><br>**Escenario 2:**<br>**Given** que tengo dudas<br>**When** entro a Preguntas Frecuentes<br>**Then** puedo resolver inquietudes comunes.<br><br>**Escenario 3:**<br>**Given** que quiero saber más<br>**When** hago clic en “Contáctanos”<br>**Then** accedo a un formulario de contacto.                                                                                          | -                             |
-| US-06.1             | Ver testimonios                 | Como visitante del segmento _Turista Frecuente_, quiero leer opiniones de otros para confiar en la plataforma.             | **Escenario 1:**<br>**Given** que entro a la sección de testimonios<br>**When** veo las opiniones<br>**Then** se muestran con nombre, experiencia y calificación.<br><br>**Escenario 2:**<br>**Given** que quiero una experiencia específica<br>**When** uso el filtro por categoría<br>**Then** veo solo testimonios relevantes.<br><br>**Escenario 3:**<br>**Given** que leo un testimonio<br>**When** me parece útil<br>**Then** puedo marcarlo como “útil”.                                                                                          | EP-06                         |
+Epics: 
+
+| **Epic ID** | **Título**                 | **Descripción**                                                                                                                                       | **Segmento Objetivo**                       |
+|-------------|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| EP-01       | Explorar experiencias     | Como turista responsable, quiero ver experiencias sostenibles para saber qué ofrece EcoTrip.                                                         | Turistas responsables                      |
+| EP-02       | Registro de proveedores   | Como proveedor turístico sostenible, quiero registrarme para ofrecer mis servicios turísticos en la plataforma.                                      | Proveedores turísticos sostenibles         |
+| EP-03       | Crear plan                | Como turista responsable, quiero crear mi propio plan de viaje con actividades y hospedajes sostenibles.                                             | Turistas responsables                      |
+| EP-04       | Conexión con guías        | Como turista responsable, quiero contactar guías que hablen mi idioma para enriquecer mi experiencia.                                                | Turistas responsables                      |
+| EP-05       | Reservas y pagos          | Como turista responsable, quiero reservar experiencias y pagar fácilmente para confirmar mi participación.                                           | Turistas responsables                      |
+| EP-06       | Página informativa        | Como turista responsable, quiero saber qué es EcoTrip y qué servicios ofrece para decidir si usar la plataforma.                                     | Turistas responsables                      |
+| EP-07       | Gestión de favoritos      | Como turista responsable, quiero poder marcar experiencias como favoritas para consultarlas después.                                                | Turistas responsables                      |
+| EP-08       | Validación de formularios | Como proveedor turístico sostenible, quiero que todos los formularios tengan validación para evitar errores en el registro o actualizaciones.        | Proveedores turísticos sostenibles         |
+| EP-09       | Notificaciones visuales   | Como usuario (turista o proveedor), quiero recibir mensajes visuales para saber qué acciones fueron exitosas o fallidas.                            | Ambos segmentos                            |
+| EP-10       | Personalización del perfil| Como usuario (turista o proveedor), quiero personalizar mi perfil con datos e intereses para mejorar mi experiencia en la plataforma.                | Ambos segmentos                            |
+| EP-11       | Accesibilidad y UX        | Como usuario (turista o proveedor), quiero que el sitio sea accesible y cómodo para navegar en cualquier dispositivo.                               | Ambos segmentos    
+
+User Stories: 
+
+| **User Story ID** | **Título** | **Descripción (Segmento Objetivo)** | **Criterios de Aceptación (Gherkin)** | **Relacionado con (Epic ID)** |
+|-------------------|------------|-------------------------------------|----------------------------------------|-------------------------------|
+| US-01 | Filtrar experiencias | Como turista responsable, quiero filtrar por tipo de experiencia para encontrar lo que me interesa. | **Escenario 1:**<br>**Given** que estoy viendo las experiencias<br>**When** selecciono “Voluntariado”<br>**Then** solo se muestran experiencias de voluntariado.<br>**Escenario 2:**<br>**Given** que ya he filtrado<br>**When** regreso a la lista<br>**Then** el filtro se mantiene aplicado.<br>**Escenario 3:**<br>**Given** que selecciono varios tipos<br>**When** aplico los filtros<br>**Then** se actualiza la lista combinada. | EP-01 |
+| US-02 | Aprobación de proveedor | Como administrador, quiero revisar los datos del proveedor turístico sostenible para aprobar o rechazar su ingreso. | **Escenario 1:**<br>**Given** que hay una solicitud nueva<br>**When** reviso los documentos<br>**Then** puedo aprobarla.<br>**Escenario 2:**<br>**Given** que detecto errores<br>**When** rechazo la solicitud<br>**Then** puedo escribir una razón y notificar.<br>**Escenario 3:**<br>**Given** que apruebo<br>**When** finalizo el proceso<br>**Then** se actualiza a “Proveedor Activo”. | EP-02 |
+| US-03 | Recomendaciones para itinerario | Como turista responsable, quiero recibir sugerencias basadas en mis gustos. | **Escenario 1:**<br>**Given** que completé mi perfil<br>**When** ingreso a recomendaciones<br>**Then** veo actividades sugeridas.<br>**Escenario 2:**<br>**Given** que no me gustan<br>**When** marco “No me interesa”<br>**Then** se actualiza la lista.<br>**Escenario 3:**<br>**Given** que acepto<br>**When** agrego al itinerario<br>**Then** aparece en mi plan. | EP-03 |
+| US-04 | Reservar guía específico | Como turista responsable, quiero reservar a un guía específico que hable mi idioma. | **Escenario 1:**<br>**Given** que encontré un guía<br>**When** elijo una fecha<br>**Then** hago la reserva.<br>**Escenario 2:**<br>**Given** que reservé<br>**When** reviso mi perfil<br>**Then** veo el historial.<br>**Escenario 3:**<br>**Given** que el guía confirma<br>**When** recibo el correo<br>**Then** veo detalles del encuentro. | EP-04 |
+| US-05 | Cancelar reserva | Como turista responsable, quiero cancelar una reserva si no puedo asistir. | **Escenario 1:**<br>**Given** que tengo una reserva<br>**When** accedo a ella<br>**Then** veo la opción cancelar.<br>**Escenario 2:**<br>**Given** que cancelo a tiempo<br>**When** aplico la acción<br>**Then** recibo reembolso.<br>**Escenario 3:**<br>**Given** que se cancela<br>**When** reviso correo<br>**Then** veo confirmación. | EP-05 |
+| US-06 | Ver testimonios | Como turista responsable, quiero leer opiniones de otros para confiar en la plataforma. | **Escenario 1:**<br>**Given** que entro a testimonios<br>**When** veo las opiniones<br>**Then** muestran nombre, experiencia y calificación.<br>**Escenario 2:**<br>**Given** que busco algo específico<br>**When** uso filtro<br>**Then** veo testimonios relevantes.<br>**Escenario 3:**<br>**Given** que leo un testimonio<br>**When** me parece útil<br>**Then** puedo marcarlo como “útil”. | EP-06 |
+| US-07 | Marcar experiencia como favorita | Como turista responsable, quiero marcar experiencias como favoritas para guardarlas y verlas luego. | **Escenario 1:**<br>**Given** que veo una experiencia<br>**When** hago clic en corazón<br>**Then** se guarda como favorita.<br>**Escenario 2:**<br>**Given** que estoy en mi perfil<br>**When** entro a favoritos<br>**Then** veo lista guardada.<br>**Escenario 3:**<br>**Given** que quito una experiencia<br>**When** hago clic otra vez<br>**Then** se elimina de favoritos. | EP-07 |
+| US-08 | Validar campos obligatorios | Como proveedor turístico sostenible, quiero validaciones en los formularios para no enviar datos incompletos. | **Escenario 1:**<br>**Given** que lleno un formulario<br>**When** dejo un campo vacío<br>**Then** veo error.<br>**Escenario 2:**<br>**Given** que pongo un correo inválido<br>**When** intento enviar<br>**Then** veo advertencia.<br>**Escenario 3:**<br>**Given** que corrijo<br>**When** vuelvo a intentar<br>**Then** se envía correctamente. | EP-08 |
+| US-09 | Mostrar alertas visuales | Como usuario (turista o proveedor), quiero ver alertas (toasts) al realizar acciones importantes. | **Escenario 1:**<br>**Given** que agrego experiencia<br>**When** confirmo acción<br>**Then** aparece toast de éxito.<br>**Escenario 2:**<br>**Given** que cancelo reserva<br>**When** confirmo cancelación<br>**Then** veo mensaje de confirmación.<br>**Escenario 3:**<br>**Given** que ocurre un error<br>**When** realizo acción<br>**Then** veo mensaje de error. | EP-09 |
+| US-10 | Editar foto de perfil | Como usuario (turista o proveedor), quiero subir o cambiar mi foto de perfil. | **Escenario 1:**<br>**Given** que estoy en perfil<br>**When** hago clic en “Cambiar foto”<br>**Then** selecciono imagen.<br>**Escenario 2:**<br>**Given** que subo imagen válida<br>**When** guardo<br>**Then** se actualiza foto.<br>**Escenario 3:**<br>**Given** que intento archivo no permitido<br>**When** lo subo<br>**Then** veo error. | EP-10 |
+| US-11 | Activar modo oscuro | Como usuario (turista o proveedor), quiero activar modo oscuro para una experiencia visual cómoda. | **Escenario 1:**<br>**Given** que estoy en cualquier página<br>**When** activo switch modo oscuro<br>**Then** interfaz cambia.<br>**Escenario 2:**<br>**Given** que cierro sesión<br>**When** vuelvo a ingresar<br>**Then** modo oscuro sigue activo.<br>**Escenario 3:**<br>**Given** que desactivo modo oscuro<br>**When** hago clic en switch<br>**Then** vuelve al modo claro. | EP-11 |
 
 3.3. Impact Mapping.
 
@@ -713,17 +787,7 @@ A continuación los Mock ups, estos son los modelos de diseño que se utilizará
 
 4.4. Web Applications UX/UI Design.
 
-4.4.1. Web Applications Wireframes.
-
-4.4.2. Web Applications Wireflow Diagrams.
-
-4.4.2. Web Applications Mock-ups.
-
-4.4.3. Web Applications User Flow Diagrams.
-
-4.5. Web Applications Prototyping.
-
-4.6. Domain-Driven Software Architecture.
+@@ -608,241 +130,241 @@ A continuación los Mock ups, estos son los modelos de diseño que se utilizará
 
 4.6.1. Software Architecture Context Diagram.
 
@@ -887,15 +951,18 @@ La clase **Review** permite a los usuarios dejar comentarios y calificaciones so
 
 #### Atributos:
 
+
+
 - `environmentalScore: int` – Calificación de sostenibilidad de la experiencia (de 1 a 5).
 - `culturalScore: int` – Calificación del impacto cultural de la experiencia.
 - `comment: String` – Comentario escrito por el usuario sobre la experiencia.
+
 
 #### Métodos:
 
 - `calculateFinalScore()` – Calcula la calificación final promediando todas las puntuaciones recibidas (sostenibilidad, impacto cultural, etc.).
 
-  4.8. Database Design.
+4.8. Database Design.
 
   4.8.1. Database Diagram.
 
@@ -904,20 +971,6 @@ La clase **Review** permite a los usuarios dejar comentarios y calificaciones so
 </div>
 
 ### Capítulo V: Product Implementation, Validation & Deployment
-
-5.1. Software Configuration Management.
-
-5.1.1. Software Development Environment Configuration.
-
-5.1.2. Source Code Management.
-
-5.1.3. Source Code Style Guide & Conventions.
-
-5.1.4. Software Deployment Configuration.
-
-5.2. Landing Page, Services & Applications Implementation.
-
-5.2.X. Sprint 1
 
 5.2.X.1. Sprint Planning 1.
 
@@ -938,29 +991,11 @@ La clase **Review** permite a los usuarios dejar comentarios y calificaciones so
 
 5.2.X.2. Aspect Leaders and Collaborators.
 
-5.2.X.3. Sprint Backlog n.
-
-5.2.X.4. Development Evidence for Sprint Review.
-
-5.2.X.5. Execution Evidence for Sprint Review.
-
-5.2.X.6. Services Documentation Evidence for Sprint Review.
-
-5.2.X.7. Software Deployment Evidence for Sprint Review.
-
-5.2.X.8. Team Collaboration Insights during Sprint.
-
-5.3. Validation Interviews.
-
-5.3.1. Diseño de Entrevistas.
-
-5.3.2. Registro de Entrevistas.
-
-5.3.3. Evaluaciones según heurísticas.
-
 5.4. Video About-the-Product.
 
 ### Conclusiones
+
+
 
 ### Conclusiones y recomendaciones.
 
