@@ -32,9 +32,10 @@
 
 #### Descripción de la problemática
 
-  EcoTrip es una plataforma digital orientada al sector del ecoturismo que busca conectar a viajeros con experiencias 
-  turísticas responsables, sostenibles y auténticas.Nuestro objetivo es promover destinos que respeten el medio ambiente 
-  y  beneficien a las comunidades locales.
+  Los viajeros interesados en el ecoturismo tienen dificultades para encontrar experiencias auténticas, sostenibles 
+  y alineadas con sus valores, debido a la falta de una plataforma confiable que conecte oferta 
+  y demanda de forma transparente, accesible y centrada en la responsabilidad ambiental y social.
+  
 ### 1.2.2 Lean UX Process.
 
   ## What?
