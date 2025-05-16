@@ -41,7 +41,7 @@
             </tr>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">Gonza Morales Anderson</td>
-                <td style="border: 1px solid #ddd; padding: 8px;">Codigo</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">u202120836</td>
             </tr>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">Ramos Aguirre Aldair</td>
@@ -91,6 +91,14 @@ BoomNova es un startup con enfoque en el mercado turístico, ofrecemos otras opc
 con nuestro software buscamos facilitar e impulsar el ecoturismo.
 
 ### 1.1.2. Perfiles de integrantes del equipo
+
+| Integrante | Foto     |  lo que aporta al equipo    |
+|:------------|:----------:|-----------:|
+| Romina Tuesta Marin (u202211706)  | ![foto-Romina]()  | Soy estudiante de la carrera de ingenieria de software, considero que soy de gran aporte a mi equipo ya que se facilitar la comunicación dentro del equipo, además me gusta ayudar y siempre entregar un buen trabajo.|
+| Gonza Morales Anderson (u202120836) | ![foto-]()  | Soy estudiante de la carrera de Ingeniería | 
+| Acosta Elera Abraam Bernabe (U202219199) | ![]()| Soy estudiante de la carrera de Ingeniería  |
+| Mio Mejia Andy Alejandro () | ![foto]() | Soy estudiante de la carrera de Ingeniería  |
+| Ramos Aguirre Aldair () | ![foto]() | Soy estudiante de la carrera de Ingeniería  |
 
 ## 1.2. Solution Profile
 
