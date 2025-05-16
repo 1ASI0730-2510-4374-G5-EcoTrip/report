@@ -87,9 +87,7 @@
 
   En la actualidad, los turistas eco amigables y conscientes enfrentan dificultades para encontrar guías que sean sostenibles, autenticas y
   que apoyen a las comunidades locales de forma directa, las opciones de turismo tradicional se enfocan en la rentabilidad que contribuye poco al cuidado del ambiente.
-
-  -¿De que manera podemos ayudar a los turistas responsables a encontrar fácilmente estas experiencias?
-     
+  
 #### 1.2.2.2. Lean UX Assumptions.
 
   ##### Business Assumptions
