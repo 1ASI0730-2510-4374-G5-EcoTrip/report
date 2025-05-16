@@ -1489,4 +1489,11 @@ https://youtu.be/P-pBcA5IrFQ
 
 ### Conclusiones y recomendaciones.
 
-### Video About-the-Team.
+### Anexos
+
+video exposición:
+https://upcedupe-my.sharepoint.com/:f:/g/personal/u202211706_upc_edu_pe/EliWDXPLesZDrorIQI_1rSoBA4dPWfhjkaiRjWtI9IbYqQ?e=pKGmJb
+
+link del repositorio: 
+https://github.com/1ASI0730-2510-4374-G5-EcoTrip/report
+
