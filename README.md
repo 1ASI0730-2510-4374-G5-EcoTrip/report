@@ -1135,8 +1135,45 @@ A continuación los Mock ups, estos son los modelos de diseño que se utilizará
 
 4.4. Web Applications UX/UI Design.
 
-@@ -608,241 +130,241 @@ A continuación los Mock ups, estos son los modelos de diseño que se utilizará
+En esta seccion se presentaran los wireframes y mock-ups de la aplicacion web.
 
+
+4.4.1 Web Applications Wireframes
+<img src="images/Wireframe - Inicio.png">
+<img src="images/Wireframe - Login.png">
+<img src="images/Wireframe - Register.png">
+<img src="images/Wireframe - Home Page.png">
+<img src="images/Wireframe - Destinations.png">
+<img src="images/Wireframe - 25.png">
+<img src="images/Wireframe - Tourist Account.png">
+<img src="images/Wireframe - Supplier Account.png">
+<img src="images/Wireframe - Become a supplier.png">
+<img src="images/Wireframe - My Plan.png">
+<img src="images/Wireframe - My Reservations.png">
+
+
+4.4.2 Web Applications Wireflow Diagrams
+ 
+4.4.3 Web Applications Mock-ups.
+<img src="images/INICIO-WTREGISTER.png">
+<img src="images/Log in.png">
+<img src="images/REGISTER.png">
+<img src="images/REGISTER INICIO.png">
+<img src="images/Wireframe - 4.png">
+<img src="images/Wireframe - 24.png">
+<img src="images/Wireframe - 8.png">
+<img src="images/Wireframe - 27.png">
+<img src="images/Wireframe - 7.png">
+<img src="images/Wireframe - 5.png">
+<img src="images/Wireframe - 6.png">
+
+4.4.4 Web Applications User Flow Diagrams.
+
+Se adjunta el link de lucidchart https://lucid.app/lucidchart/d14987cc-bb04-4407-bde7-c9ce172c96c4/edit?viewport_loc=-5452%2C3770%2C10959%2C5134%2C0_0&invitationId=inv_623075fb-44b7-4c97-939c-7a03784fb502
+
+4.5 Web Applications Prototyping
+
+<img src="images/Prototyping.jpeg">
 4.6.1. Software Architecture Context Diagram.
 
 ![Context Diagram](img/c4-context.png)
