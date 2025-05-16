@@ -807,6 +807,18 @@ A continuación los Mock ups, estos son los modelos de diseño que se utilizará
 4.4.2 Web Applications Wireflow Diagrams
 4.4.3 Web Applications Mock-ups.
 
+<img src="images/INICIO-WTREGISTER.png">
+<img src="images/Log in.png">
+<img src="images/REGISTER.png">
+<img src="images/REGISTER INICIO.png">
+<img src="images/Wireframe - 4.png">
+<img src="images/Wireframe - 24.png">
+<img src="images/Wireframe - 8.png">
+<img src="images/Wireframe - 27.png">
+<img src="images/Wireframe - 7.png">
+<img src="images/Wireframe - 5.png">
+<img src="images/Wireframe - 6.png">
+
 4.6.1. Software Architecture Context Diagram.
 
 ![Context Diagram](images/c4-context.png)
