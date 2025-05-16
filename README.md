@@ -805,9 +805,8 @@ En esta seccion se presentaran los wireframes y mock-ups de la aplicacion web.
 
 
 4.4.2 Web Applications Wireflow Diagrams
-
+ 
 4.4.3 Web Applications Mock-ups.
-
 <img src="images/INICIO-WTREGISTER.png">
 <img src="images/Log in.png">
 <img src="images/REGISTER.png">
@@ -819,6 +818,11 @@ En esta seccion se presentaran los wireframes y mock-ups de la aplicacion web.
 <img src="images/Wireframe - 7.png">
 <img src="images/Wireframe - 5.png">
 <img src="images/Wireframe - 6.png">
+
+4.4.4 Web Applications User Flow Diagrams.
+
+Se adjunta el link de lucidchart https://lucid.app/lucidchart/d14987cc-bb04-4407-bde7-c9ce172c96c4/edit?viewport_loc=-5452%2C3770%2C10959%2C5134%2C0_0&invitationId=inv_623075fb-44b7-4c97-939c-7a03784fb502
+
 4.5 Web Applications Prototyping
 
 <img src="images/Prototyping.jpeg">
