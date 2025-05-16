@@ -789,6 +789,24 @@ A continuación los Mock ups, estos son los modelos de diseño que se utilizará
 
 @@ -608,241 +130,241 @@ A continuación los Mock ups, estos son los modelos de diseño que se utilizará
 
+
+4.4.1 Web Applications Wireframes
+<img src="images/Wireframe - Inicio.png">
+<img src="images/Wireframe - Login.png">
+<img src="images/Wireframe - Register.png">
+<img src="images/Wireframe - Home Page.png">
+<img src="images/Wireframe - Destinations.png">
+<img src="images/Wireframe - 25.png">
+<img src="images/Wireframe - Tourist Account.png">
+<img src="images/Wireframe - Supplier Account.png">
+<img src="images/Wireframe - Become a supplier.png">
+<img src="images/Wireframe - My Plan.png">
+<img src="images/Wireframe - My Reservations.png">
+
+
+4.4.2 Web Applications Wireflow Diagrams
+4.4.3 Web Applications Mock-ups.
+
 4.6.1. Software Architecture Context Diagram.
 
 ![Context Diagram](images/c4-context.png)
