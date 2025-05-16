@@ -106,9 +106,10 @@ con nuestro software buscamos facilitar e impulsar el ecoturismo.
 
 #### Descripción de la problemática
 
-EcoTrip es una plataforma digital orientada al sector del ecoturismo que busca conectar a viajeros con experiencias
-turísticas responsables, sostenibles y auténticas.Nuestro objetivo es promover destinos que respeten el medio ambiente
-y beneficien a las comunidades locales.
+  Los viajeros interesados en el ecoturismo tienen dificultades para encontrar experiencias auténticas, sostenibles 
+  y alineadas con sus valores, debido a la falta de una plataforma confiable que conecte oferta 
+  y demanda de forma transparente, accesible y centrada en la responsabilidad ambiental y social.
+
 
 ### 1.2.2 Lean UX Process.
 
@@ -161,10 +162,8 @@ locales que afrontan las consecuencias como la alza de precios en servicios y pr
 
 ### 1.2.2.1. Lean UX Problem Statements.
 
-En la actualidad, los turistas eco amigables y conscientes enfrentan dificultades para encontrar guías que sean sostenibles, autenticas y
-que apoyen a las comunidades locales de forma directa, las opciones de turismo tradicional se enfocan en la rentabilidad que contribuye poco al cuidado del ambiente.
-
--¿De que manera podemos ayudar a los turistas responsables a encontrar fácilmente estas experiencias?
+  En la actualidad, los turistas eco amigables y conscientes enfrentan dificultades para encontrar guías que sean sostenibles, autenticas y
+  que apoyen a las comunidades locales de forma directa, las opciones de turismo tradicional se enfocan en la rentabilidad que contribuye poco al cuidado del ambiente.
 
 #### 1.2.2.2. Lean UX Assumptions.
 
