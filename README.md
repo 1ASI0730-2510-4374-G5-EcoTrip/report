@@ -92,13 +92,13 @@ con nuestro software buscamos facilitar e impulsar el ecoturismo.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Integrante | Foto     |  lo que aporta al equipo    |
-|:------------|:----------:|-----------:|
-| Romina Tuesta Marin (u202211706)  | ![foto-Romina](img/Romina.jpeg)  | Soy estudiante de la carrera de ingenieria de software, considero que soy de gran aporte a mi equipo ya que se facilitar la comunicación dentro del equipo, además me gusta ayudar y siempre entregar un buen trabajo.|
-| Gonza Morales Anderson (u202120836) | ![foto-]()  | Soy estudiante de la carrera de Ingeniería | 
-| Acosta Elera Abraam Bernabe (U202219199) | ![]()| Soy estudiante de la carrera de Ingeniería  |
-| Mio Mejia Andy Alejandro () | ![foto]() | Soy estudiante de la carrera de Ingeniería  |
-| Ramos Aguirre Aldair () | ![foto]() | Soy estudiante de la carrera de Ingeniería  |
+| Integrante                               |              Foto               |                                                                                                                                                                                                lo que aporta al equipo |
+| :--------------------------------------- | :-----------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Romina Tuesta Marin (u202211706)         | ![foto-Romina](img/Romina.jpeg) | Soy estudiante de la carrera de ingenieria de software, considero que soy de gran aporte a mi equipo ya que se facilitar la comunicación dentro del equipo, además me gusta ayudar y siempre entregar un buen trabajo. |
+| Gonza Morales Anderson (u202120836)      |   ![foto-](img/Anderson.PNG)    |                                                                                                                                                                 Soy estudiante de la carrera de Ingeniería de Software |
+| Acosta Elera Abraam Bernabe (U202219199) |              ![]()              |                                                                                                                                                                             Soy estudiante de la carrera de Ingeniería |
+| Mio Mejia Andy Alejandro ()              |            ![foto]()            |                                                                                                                                                                             Soy estudiante de la carrera de Ingeniería |
+| Ramos Aguirre Aldair ()                  |            ![foto]()            |                                                                                                                                                                             Soy estudiante de la carrera de Ingeniería |
 
 ## 1.2. Solution Profile
 
@@ -826,7 +826,6 @@ User Stories:
 
 <img src= "img/imp-maria.png">
 
-
 #### Mapa de segmento proveedores turisticos ecologicos:
 
 <img src= "img/imp-pedro.png">
@@ -834,23 +833,23 @@ User Stories:
 3.4. Product Backlog.
 
 | ID      | Título                                         | Puntaje (2,3,5,8) | Descripción                                                                                    |
-| ------- | ---------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------- |
-| US-01   | Ver lista de experiencias sostenibles          | 8    | Como turista ocasional quiero ver una lista de experiencias para explorar qué ofrece EcoTrip.  |
-| US-01.1 | Filtrar experiencias por tipo                  | 8      | Como turista frecuente quiero filtrar experiencias por tipo para encontrar lo que me interesa. |
-| US-02   | Registro de proveedores                        | 5      | Como proveedor quiero registrarme para ofrecer mis servicios turísticos sostenibles.           |
-| US-02.1 | Aprobación de proveedor                        | 5     | Como administrador quiero revisar y aprobar solicitudes de proveedores.                        |
-| US-03   | Crear plan de viaje personalizado              | 5    | Como turista frecuente quiero armar mi propio itinerario con actividades y hospedajes.         |
-| US-03.1 | Sugerencias de itinerario basadas en intereses | 5     | Como turista ocasional quiero recibir sugerencias de actividades según mi perfil.              |
-| US-04   | Conexión con guías turísticos                  | 8      | Como turista frecuente quiero contactar guías que hablen mi idioma.                            |
-| US-04.1 | Reservar guía específico                       | 3   | Como turista ocasional quiero poder reservar a un guía en específico.                          |
-| US-05   | Reservar y pagar experiencias                  | 5     | Como turista frecuente quiero reservar y pagar actividades de manera fácil.                    |
-| US-05.1 | Cancelar reserva y recibir reembolso           | 3     | Como turista ocasional quiero cancelar mi reserva si no podré asistir.                         |
-| US-06   | Página informativa sobre EcoTrip               | 3    | Como visitante quiero saber qué es EcoTrip y qué servicios ofrece.                             |
-| US-06.1 | Ver testimonios de otros viajeros              | 2      | Como visitante quiero leer opiniones para confiar en la plataforma.                            |
-| US-07   | Gestión del portafolio de proveedores          | 5     | Como proveedor quiero agregar, editar o eliminar mis experiencias.                             |
-| US-08   | Mejorar visibilidad de proveedores             | 8     | Como proveedor quiero mostrar mis calificaciones y reseñas públicas.                           |
-| US-09   | Registro y validación fácil para proveedores   | 5     | Como proveedor quiero un proceso de registro rápido y sencillo.                                |
-| US-10   | Recibir pagos seguros como proveedor           | 8     | Como proveedor quiero recibir mis pagos de manera segura y poder ver mi historial.             |
+| ------- | ---------------------------------------------- | ----------------- | ---------------------------------------------------------------------------------------------- |
+| US-01   | Ver lista de experiencias sostenibles          | 8                 | Como turista ocasional quiero ver una lista de experiencias para explorar qué ofrece EcoTrip.  |
+| US-01.1 | Filtrar experiencias por tipo                  | 8                 | Como turista frecuente quiero filtrar experiencias por tipo para encontrar lo que me interesa. |
+| US-02   | Registro de proveedores                        | 5                 | Como proveedor quiero registrarme para ofrecer mis servicios turísticos sostenibles.           |
+| US-02.1 | Aprobación de proveedor                        | 5                 | Como administrador quiero revisar y aprobar solicitudes de proveedores.                        |
+| US-03   | Crear plan de viaje personalizado              | 5                 | Como turista frecuente quiero armar mi propio itinerario con actividades y hospedajes.         |
+| US-03.1 | Sugerencias de itinerario basadas en intereses | 5                 | Como turista ocasional quiero recibir sugerencias de actividades según mi perfil.              |
+| US-04   | Conexión con guías turísticos                  | 8                 | Como turista frecuente quiero contactar guías que hablen mi idioma.                            |
+| US-04.1 | Reservar guía específico                       | 3                 | Como turista ocasional quiero poder reservar a un guía en específico.                          |
+| US-05   | Reservar y pagar experiencias                  | 5                 | Como turista frecuente quiero reservar y pagar actividades de manera fácil.                    |
+| US-05.1 | Cancelar reserva y recibir reembolso           | 3                 | Como turista ocasional quiero cancelar mi reserva si no podré asistir.                         |
+| US-06   | Página informativa sobre EcoTrip               | 3                 | Como visitante quiero saber qué es EcoTrip y qué servicios ofrece.                             |
+| US-06.1 | Ver testimonios de otros viajeros              | 2                 | Como visitante quiero leer opiniones para confiar en la plataforma.                            |
+| US-07   | Gestión del portafolio de proveedores          | 5                 | Como proveedor quiero agregar, editar o eliminar mis experiencias.                             |
+| US-08   | Mejorar visibilidad de proveedores             | 8                 | Como proveedor quiero mostrar mis calificaciones y reseñas públicas.                           |
+| US-09   | Registro y validación fácil para proveedores   | 5                 | Como proveedor quiero un proceso de registro rápido y sencillo.                                |
+| US-10   | Recibir pagos seguros como proveedor           | 8                 | Como proveedor quiero recibir mis pagos de manera segura y poder ver mi historial.             |
 
 ### Capítulo IV: Product Design
 
@@ -1344,27 +1343,26 @@ La clase **Review** permite a los usuarios dejar comentarios y calificaciones so
 
 5.2.X.2. Aspect Leaders and Collaborators.
 
-| Team Member (Last Name, First Name)  | Github Username | Diseño, wireframes landing Leader (L), Collaborator (C) | Desarrollo estatico HTML, CSS, JS Leader (L), Collaborator (C) | Desplegar el servicio Leader (L), Collaborator (C) | 
-| ------------------------------------ | --------------- | ------------------------------------------ | ---------------- | -------------- | 
-| Romina Alejanda Tuesta Marin  | Romimi1  | (L) | (L) | (L) | 
-| Ramos Aguirre Aldair   | AldairRam |  (C) | (C) | (C) | 
-| Abraam Acosta Elera | abraam16 | (C) | (C)| (C) | 
-| Anderson Gonza Morales |  | (C) | (C) | (C) | 
-| Andy mio mejia |  | (C) | (C) | (C) | 
+| Team Member (Last Name, First Name) | Github Username | Diseño, wireframes landing Leader (L), Collaborator (C) | Desarrollo estatico HTML, CSS, JS Leader (L), Collaborator (C) | Desplegar el servicio Leader (L), Collaborator (C) |
+| ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
+| Romina Alejanda Tuesta Marin        | Romimi1         | (L)                                                     | (L)                                                            | (L)                                                |
+| Ramos Aguirre Aldair                | AldairRam       | (C)                                                     | (C)                                                            | (C)                                                |
+| Abraam Acosta Elera                 | abraam16        | (C)                                                     | (C)                                                            | (C)                                                |
+| Anderson Gonza Morales              |                 | (C)                                                     | (C)                                                            | (C)                                                |
+| Andy mio mejia                      |                 | (C)                                                     | (C)                                                            | (C)                                                |
 
 5.4. Video About-the-Product.
 
 Evidencia de video:
 ![Container Diagram](img/about-product.JPG)
 
-Video subido en Microsoft: 
+Video subido en Microsoft:
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211706_upc_edu_pe/EZpWEEtTuZhKpUpVZv2FmVABS-T8DCENQTuWI8UTOirsGg
 
-Video subido a youtube: 
+Video subido a youtube:
 
 https://youtu.be/P-pBcA5IrFQ
-
 
 ### Conclusiones
 
