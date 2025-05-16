@@ -787,7 +787,7 @@ A continuación los Mock ups, estos son los modelos de diseño que se utilizará
 
 4.4. Web Applications UX/UI Design.
 
-@@ -608,241 +130,241 @@ A continuación los Mock ups, estos son los modelos de diseño que se utilizará
+En esta seccion se presentaran los wireframes y mock-ups de la aplicacion web.
 
 
 4.4.1 Web Applications Wireframes
@@ -805,6 +805,7 @@ A continuación los Mock ups, estos son los modelos de diseño que se utilizará
 
 
 4.4.2 Web Applications Wireflow Diagrams
+
 4.4.3 Web Applications Mock-ups.
 
 <img src="images/INICIO-WTREGISTER.png">
@@ -818,7 +819,9 @@ A continuación los Mock ups, estos son los modelos de diseño que se utilizará
 <img src="images/Wireframe - 7.png">
 <img src="images/Wireframe - 5.png">
 <img src="images/Wireframe - 6.png">
+4.5 Web Applications Prototyping
 
+<img src="images/Prototyping.jpeg">
 4.6.1. Software Architecture Context Diagram.
 
 ![Context Diagram](images/c4-context.png)
