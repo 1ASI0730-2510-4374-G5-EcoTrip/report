@@ -1468,6 +1468,7 @@ Luego de unos minutos Github genera un enlace.
 | **Sprint 1 Velocity**               | 5                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **Sum of Story Points**             | 5                                                                                                                                                                                                                                                                                                                                                                                                          |
 
+
 5.2.X.2. Aspect Leaders and Collaborators.
 
 | Team Member (Last Name, First Name) | Github Username | Diseño, wireframes landing Leader (L), Collaborator (C) | Desarrollo estatico HTML, CSS, JS Leader (L), Collaborator (C) | Desplegar el servicio Leader (L), Collaborator (C) |
@@ -1475,8 +1476,39 @@ Luego de unos minutos Github genera un enlace.
 | Romina Alejanda Tuesta Marin        | Romimi1         | (L)                                                     | (L)                                                            | (L)                                                |
 | Ramos Aguirre Aldair                | AldairRam       | (C)                                                     | (C)                                                            | (C)                                                |
 | Abraam Acosta Elera                 | abraam16        | (C)                                                     | (C)                                                            | (C)                                                |
-| Anderson Gonza Morales              |                 | (C)                                                     | (C)                                                            | (C)                                                |
+| Anderson Gonza Morales              | anderstar       | (C)                                                     | (C)                                                            | (C)                                                |
 | Andy mio mejia                      |                 | (C)                                                     | (C)                                                            | (C)                                                |
+
+5.2.X.3. Sprint Backlog n.
+
+| **User Story** | **Work-Item / Task** |     |          |               |               |             |
+|----------------|----------------------|-----|----------|---------------|---------------|-------------|
+| **Id**         | **Title**            | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| US-01          | Filtrar experiencias | T1.1 | Diseño UI de filtros | Crear diseño para seleccionar tipos de experiencias | 3 | Abraham   | Done |
+|                |                      | T1.2 | Lógica de filtro | Mostrar solo experiencias del tipo seleccionado | 4 | Abraham  | in process |
+|                |                      | T1.3 | Mantener filtros activos | Mantener filtro aplicado al regresar a la lista | 4 | Abraham  | in process|
+|                |                      | T1.4 | Filtro múltiple | Permitir seleccionar varios tipos y actualizar resultados | 5 | Abraham  | done|
+
+| **User Story** | **Work-Item / Task** |     |          |               |               |             |
+|----------------|----------------------|-----|----------|---------------|---------------|-------------|
+| **Id**         | **Title**            | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| US-02          | Aprobación de proveedor | T2.1 | Vista de revisión | Crear pantalla de revisión de solicitudes de proveedores | 4 | Abraham | In-Process |
+|                |                      | T2.2 | Validación de documentos | Habilitar la visualización de documentos | 3 | Mejia | Done |
+
+| **User Story** | **Work-Item / Task**       |     |          |                               |                       |                |          |
+|----------------|----------------------------|-----|----------|-------------------------------|-----------------------|----------------|----------|
+| **Id**         | **Title**                  | **Id** | **Title**                      | **Description**       | **Estimation (Hours)** | **Assigned To** | **Status** |
+| US-LP01        | Landing Page experiencias  | TLP1.1 | Diseño visual UI               | Crear mockup de la landing page con sección de portada, destacados y navegación clara | 3 | Romina    | Done     |
+|                |                            | TLP1.2 | Implementar portada (Hero)     | Implementar banner principal con imagen y CTA | 4 | Romina          | In Progress |
+|                |                            | TLP1.3 | Cards de experiencias          | Crear tarjetas con imagen, nombre y puntuación | 5 | Romina        | To Do     |
+|                |                            | TLP1.4 | Integración con backend        | Conectar con servicio para obtener experiencias destacadas | 3 | Romina        | To Do     |
+|                |                            | TLP1.5 | Animaciones suaves             | Incluir animaciones al mostrar la landing page | 2 | Romina        | To Do     |
+|                |                            | TLP1.6 | Validación responsiva          | Probar visualización en distintos dispositivos | 2 | Romina      | To Do     |
+|                |                            | TLP1.7 | SEO básico                     | Añadir etiquetas HTML y estructura H1-H3 | 2 | Romina         | To Do     |
+|                |                            | TLP1.8 | Video de demo                  | Grabar y subir video demostrando navegación | 2 |Romina     | To Do     |
+
+
+
 
 5.4. Video About-the-Product.
 
