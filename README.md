@@ -1469,6 +1469,65 @@ Luego de unos minutos Github genera un enlace.
 | **Sum of Story Points**             | 5                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 
+
+
+Sprint Planning 2
+
+| **Sprint 1**                       | Sprint n                                                    |
+|-----------------------------------|-------------------------------------------------------------|
+| **Sprint Planning Background**    |                                                             |
+| **Date**                          | 2025-05-6                                              |
+| **Time**                          | 10:00 AM                                                |
+| **Location**                      | (virtual por google meet)  |
+| **Prepared By**                   | Romina Alejandra Tuesta Marin                              |
+| **Attendees (to planning meeting)** |  Romina Alejandra Tuesta Marin / Acosta Elera Abraam Bernabe / Gonza Morales Anderson/   |
+| **Sprint n – 1 Review Summary**   | No aplica (primer Sprint). |
+| **Sprint n – 1 Retrospective Summary** | No aplica (primer Sprint).|
+
+| **Sprint Goal & User Stories**    |                                                             |
+|-----------------------------------|-------------------------------------------------------------|
+| **Sprint n Goal**                 | (mplementar el filtrado de experiencias por tipo para mejorar la personalización del contenido.)|
+| **Sprint n Velocity**             | (8 Story Points) |
+| **Sum of Story Points**           | (8) |
+
+
+
+| **Sprint 2**                       | Sprint n                                                    |
+|-----------------------------------|-------------------------------------------------------------|
+| **Sprint Planning Background**    |                                                             |
+| **Date**                          | 2025-05-10                                                 |
+| **Time**                          | 15:00 pm                                                 |
+| **Location**                      | (virtual por google meet)|
+| **Prepared By**                   | Romina Alejandra Tuesta Marin                             |
+| **Attendees (to planning meeting)** | Romina Alejandra Tuesta Marin / Acosta Elera Abraam Bernabe / Gonza Morales Anderson/  |
+| **Sprint n – 1 Review Summary**   | Funcionalidad de filtros implementada y validada. Usuario puede aplicar múltiples filtros y estos se mantienen al regresar. |
+| **Sprint n – 1 Retrospective Summary** | Se identificó buena colaboración; se propone mejorar tiempos de respuesta en las validaciones. |
+
+| **Sprint Goal & User Stories**    |                                                             |
+|-----------------------------------|-------------------------------------------------------------|
+| **Sprint n Goal**                 | Crear interfaz y lógica de backend para revisión, aprobación y rechazo de proveedores.|
+| **Sprint n Velocity**             | (10 Story Points) |
+| **Sum of Story Points**           | (10) |
+
+
+| **Sprint 3**                       | Sprint n                                                    |
+|-----------------------------------|-------------------------------------------------------------|
+| **Sprint Planning Background**    |                                                             |
+| **Date**                          | 2025-05-14                                                 |
+| **Time**                          | 11:00 pm                                                |
+| **Location**                      | Reunión virtual – Zoom|
+| **Prepared By**                   | Romina Alejandra Tuesta Marin                          |
+| **Attendees (to planning meeting)** |  Romina Alejandra Tuesta Marin / Acosta Elera Abraam Bernabe / Gonza Morales Anderson/  |
+| **Sprint n – 1 Review Summary**   | Se completó correctamente la gestión de proveedores. Feedback positivo de administrador sobre notificaciones. |
+| **Sprint n – 1 Retrospective Summary** | Se recomienda automatizar pruebas de validación de formularios. |
+
+| **Sprint Goal & User Stories**    |                                                             |
+|-----------------------------------|-------------------------------------------------------------|
+| **Sprint n Goal**                 | Desarrollar sistema de recomendaciones personalizadas según perfil del turista.|
+| **Sprint n Velocity**             | (13 Story Points) |
+| **Sum of Story Points**           | (13) |
+
+
 5.2.X.2. Aspect Leaders and Collaborators.
 
 | Team Member (Last Name, First Name) | Github Username | Diseño, wireframes landing Leader (L), Collaborator (C) | Desarrollo estatico HTML, CSS, JS Leader (L), Collaborator (C) | Desplegar el servicio Leader (L), Collaborator (C) |
